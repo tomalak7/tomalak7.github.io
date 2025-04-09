@@ -18,19 +18,16 @@ main:
     url: Tomalak_Oleksandr_CV_pub.pdf
 
   - title: "Publications"
-    url: /talks/    
-
+    url: /talks/
+    
+  - title: "Awards"
+    url: /awards/
+    
   - title: "Achievements"
-    url: /achievements/    
+    url: /achievements/
     
   - title: "Conferences"
     url: /conferences/
         
   - title: "Records"
     url: /records/
-    
-  - title: "Awards"
-    url: /awards/
-    
-  - title: "Visits"
-    url: /markdown/
