@@ -12,10 +12,10 @@ main:
     url: /
     
   - title: "Resume"
-    url: Tomalak_Oleksandr_resume.pdf
+    url: /files/Tomalak_Oleksandr_resume.pdf
     
   - title: "CV"
-    url: Tomalak_Oleksandr_CV_pub.pdf
+    url: /files/Tomalak_Oleksandr_CV_pub.pdf
 
   - title: "Publications"
     url: /publications/
