@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "WebPage of Oleksandr Tomalak"
+title                    : "Oleksandr Tomalak"
 title_separator          : "-"
 name                     : &name "Oleksandr Tomalak"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "photo.jpg"
   name             : "Sasha Tomalak"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Rosenheim/Bavaria/Germany"
+  bio              : "position, affiliation"
+  location         : "Rosenheim, Bavaria, Germany"
   employer         : ""
   uri              : "https://tomalak7.github.io" 
   email            : "sashatomalak@icloud.com" 
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=E6IYdbYAAAAJ"
   orcid            : "https://orcid.org/0000-0002-4827-5842"
   researchgate     : "https://www.researchgate.net/profile/Oleksandr-Tomalak"
-  scopus           : # URL
+  ADS              : "https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTomalak%2C%20O%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTomalak%2C%20O%22)&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=Tomalak&sort=date%20desc%2C%20bibcode%20desc&p_=0"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -47,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : "aleksander.tomalak"
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +61,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "Sasha Tomalak"
+  telegram         : "8052650523"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
