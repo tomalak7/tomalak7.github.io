@@ -23,10 +23,10 @@ main:
   - title: "Achievements"
     url: /achievements/    
     
-  - title: "Upcoming conferences"
+  - title: "Conferences"
     url: /conferences/
         
-  - title: "Recorded talks"
+  - title: "Records"
     url: /records/
     
   - title: "Awards"
