@@ -8,26 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Home"
+    url: /
+    
   - title: "Resume"
     url: /files/Tomalak_Oleksandr_resume.pdf
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Tomalak_Oleksandr_CV_pub.pdf
+
+  - title: "Publications"
+    url: /talks/    
+
+  - title: "Achievements"
+    url: /achievements/    
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Upcoming conferences"
+    url: /conferences/
+        
+  - title: "Recorded talks"
+    url: /records/
     
-  - title: "Guide"
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Visits"
     url: /markdown/
