@@ -13,7 +13,7 @@ title                    : "WebPage of Oleksandr Tomalak"
 title_separator          : "-"
 name                     : &name "Oleksandr Tomalak"
 description              : &description "personal description"
-url                      : https://tomalak7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://tomalak7.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomalak7/tomalak7.github.io"
 
@@ -22,13 +22,13 @@ repository               : "tomalak7/tomalak7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Sasha Tomalak"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Rosenheim/Bavaria/Germany"
   employer         : ""
-  uri              : # URL
+  uri              : "https://tomalak7.github.io" 
   email            : "sashatomalak@icloud.com" 
 
   # Academic websites
@@ -54,22 +54,22 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "oleksandrtomalak"
   lastfm           : # Username
-  linkedin         : Oleksandr Tomalak
+  linkedin         : "oleksandr-tomalak-b0b49230"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : Sasha Tomalak
+  telegram         : "Sasha Tomalak"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : @AlexTomalak
+  youtube          : "AlexTomalak"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
