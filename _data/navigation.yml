@@ -18,7 +18,7 @@ main:
     url: /files/Tomalak_Oleksandr_CV_pub.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: https://inspirehep.net/authors/1077543
     
   - title: "Awards"
     url: /awards/
