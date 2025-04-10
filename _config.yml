@@ -301,6 +301,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-scholar
   - jekyll-redirect-from
   - jemoji
 
