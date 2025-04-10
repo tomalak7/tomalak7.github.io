@@ -13,7 +13,7 @@ I am a theoretical physicist working on various subjects in modern Nuclear and P
 
 2) coherent elastic neutrino-nucleus scattering,
 
-3) the Cabibbo-Kobayashi-Maskawa mixing matrix and neutron decay,
+3) neutron decay and Cabibbo-Kobayashi-Maskawa mixing matrix,
   
 4) nucleon form factors,
 
