@@ -39,13 +39,11 @@ Experimental Activities of Interst
 ------
 
 Below, I provide a list of experiments and activities I am excited about
-{{% row %}}
-{{% column %}}- [DUNE](https://www.dunescience.org){{% /column %}}
-{{% column %}}- [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/){{% /column %}}
-{{% column %}}- [NOvA](https://novaexperiment.fnal.gov){{% /column %}}
-{{% column %}}- [T2K](https://t2k-experiment.org){{% /column %}}
-{{% column %}}- [JUNO](http://juno.ihep.cas.cn){{% /column %}}
-{{% row %}}
+- [DUNE](https://www.dunescience.org)
+- [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)
+- [NOvA](https://novaexperiment.fnal.gov)
+- [T2K](https://t2k-experiment.org)
+- [JUNO](http://juno.ihep.cas.cn)
 - [MUSE](https://www.physics.rutgers.edu/~rgilman/elasticmup/)
 - [AMBER](https://amber.web.cern.ch)
 - [EIC](https://www.bnl.gov/eic/)
