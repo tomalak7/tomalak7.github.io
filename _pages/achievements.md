@@ -4,6 +4,9 @@ title: "Achievements"
 permalink: /achievements/
 author_profile: true
 ---
+p {
+  text-align: justify;
+}
 
 In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
 
