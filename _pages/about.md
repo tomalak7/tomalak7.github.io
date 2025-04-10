@@ -51,6 +51,8 @@ Below, I provide a list of experiments and activities I am excited about
 - [Hyperfine](), [Hyperfine](), [Hyperfine]()
 - 
 
+<!---
 Projects and Jobs
 ------
 If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
+--->
