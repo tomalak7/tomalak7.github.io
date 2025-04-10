@@ -71,7 +71,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
-- <a href="https://magix.uni-mainz.de/">MAGIX&commatMESA</a>
+- <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a>
 
 </div>
 
