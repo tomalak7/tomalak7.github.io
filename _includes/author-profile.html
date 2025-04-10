@@ -11,7 +11,7 @@
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    {% endif %} 
   </div>
 
   <div class="author__content">
@@ -37,7 +37,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.phone %}
-        <li><a href="mailto:{{ author.phone }}"><i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>{{ phone }}</a></li>
+        <li class="author__desktop"><i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>{{ author.phone }}</li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
