@@ -39,6 +39,38 @@ Experimental Activities of Interst
 ------
 
 Below, I provide a list of experiments and activities I am excited about
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; min-width: 200px; margin-right: 20px;">
+
+- [DUNE](https://www.dunescience.org)  
+- [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)  
+- [NOvA](https://novaexperiment.fnal.gov)  
+- [T2K](https://t2k-experiment.org)  
+- [JUNO](http://juno.ihep.cas.cn)
+
+</div>
+
+<div style="flex: 1; min-width: 200px; margin-right: 20px;">
+
+- [MUSE](https://www.physics.rutgers.edu/~rgilman/elasticmup/)  
+- [AMBER](https://amber.web.cern.ch)  
+- [EIC](https://www.bnl.gov/eic/)  
+- [OLYMPUS](https://web.mit.edu/olympus/)  
+- [CLAS](https://www.jlab.org/physics/hall-b/clas)
+
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
+- [VEPP-3](https://v4.inp.nsk.su/vepp3/index.en.html)  
+- [PRAD](https://www.jlab.org/prad/collaboration.html)  
+- [Hypermu](https://www.psi.ch/en/ltp/hypermu)  
+- [FAMU](https://web.infn.it/FAMU/the-project/)
+
+</div>
+
+</div>
 - [DUNE](https://www.dunescience.org)
 - [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)
 - [NOvA](https://novaexperiment.fnal.gov)
