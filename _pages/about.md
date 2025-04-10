@@ -23,6 +23,7 @@ As of today, I have significantly contributed to the following research areas:
 
 6) nucleon and nuclear structure in large nuclei.
 
+
 Keywords
 ------
 Radiative corrections, neutrino interactions, nucleon structure, cross sections, effective field theory, quantum field theory, quantum electrodynamics, hadron physics, dispersion relations, non-perturbative methods, two-photon exchange.
@@ -30,6 +31,7 @@ Radiative corrections, neutrino interactions, nucleon structure, cross sections,
 For a detailed description of my research activities, please follow [this link](https://tomalak7.github.io/achievements).
 
 If you are interested in my research and/or collaboration, please contact me via [Email](mailto:sashatomalak@icloud.com).
+
 
 This Home Page
 ------
@@ -69,7 +71,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a>
-- <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a>
+- <a href="https://magix.uni-mainz.de/">MAGIX&commatMESA</a>
 
 </div>
 
