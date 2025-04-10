@@ -305,6 +305,11 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
+
+scholar:
+  style: apa
+  bibliography: _bibliography/references.bib
+  
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
