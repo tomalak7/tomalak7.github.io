@@ -5,7 +5,7 @@ permalink: /achievements/
 author_profile: true
 ---
 
-In the following sections, I will detail my primary contributions to these six research areas, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
+In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
 
 
 Neutrino Cross Sections for Oscillation Experiments
