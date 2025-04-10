@@ -43,30 +43,30 @@ Below, I provide a list of experiments and activities I am excited about
 
 <div style="flex: 1; min-width: 200px; margin-right: 20px;">
 
-- [DUNE](https://www.dunescience.org)  
-- [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)  
-- [NOvA](https://novaexperiment.fnal.gov)  
-- [T2K](https://t2k-experiment.org)  
-- [JUNO](http://juno.ihep.cas.cn)
+- <a href="https://www.dunescience.org">DUNE</a><br>
+- <a href="https://www-sk.icrr.u-tokyo.ac.jp/en/hk/">Hyper-K</a><br>
+- <a href="https://novaexperiment.fnal.gov">NOvA</a><br>
+- <a href="https://t2k-experiment.org">T2K</a><br>
+- <a href="http://juno.ihep.cas.cn">JUNO</a>
 
 </div>
 
 <div style="flex: 1; min-width: 200px; margin-right: 20px;">
 
-- [MUSE](https://www.physics.rutgers.edu/~rgilman/elasticmup/)  
-- [AMBER](https://amber.web.cern.ch)  
-- [EIC](https://www.bnl.gov/eic/)  
-- [OLYMPUS](https://web.mit.edu/olympus/)  
-- [CLAS](https://www.jlab.org/physics/hall-b/clas)
+- <a href="https://www.physics.rutgers.edu/~rgilman/elasticmup/">MUSE</a><br>
+- <a href="https://amber.web.cern.ch">AMBER</a><br>
+- <a href="https://www.bnl.gov/eic/">EIC</a><br>
+- <a href="https://web.mit.edu/olympus/">OLYMPUS</a><br>
+- <a href="https://www.jlab.org/physics/hall-b/clas">CLAS</a>
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
 
-- [VEPP-3](https://v4.inp.nsk.su/vepp3/index.en.html)  
-- [PRAD](https://www.jlab.org/prad/collaboration.html)  
-- [Hypermu](https://www.psi.ch/en/ltp/hypermu)  
-- [FAMU](https://web.infn.it/FAMU/the-project/)
+- <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a><br>
+- <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
+- <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
+- <a href="https://web.infn.it/FAMU/the-project/">FAMU</a>
 
 </div>
 
