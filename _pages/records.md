@@ -14,7 +14,7 @@ author_profile: true
 4. **[QED radiative corrections to charged-current neutrino-nucleon elastic scattering for
 accelerator neutrino experiments](https://youtu.be/tb8_YRIHp3c)**, online talk at [Weak Interactions and Neutrinos (WIN) 2021](https://indico.fnal.gov/event/44492/) Conference, University of Minnesota, Minneapolis, MN, USA, 06/2021
 
-5. **[Elastic neutrino-electron scattering. Theory for experiment](https://youtu.be/mrW4aYjP57w)**, poster at [Neutrino 2020](https://indico.fnal.gov/event/19348/) Conference, 06/2020
+5. **[Elastic neutrino-electron scattering. Theory for experiment](https://youtu.be/mrW4aYjP57w)**, poster at [Neutrino 2020](https://indico.fnal.gov/event/19348/) Online Conference, 06/2020
 
 6. **[Effective theory of resonant scattering](https://youtu.be/H9S9PtrxNYU)**, [8.EFTx] Educational Talk, 12/2017
 
