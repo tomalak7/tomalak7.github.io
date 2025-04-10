@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am theoretical physicist working in various subjects of modern Nuclear and Particle Physics in a close connections to the experiment. As of today, I have significantly contributed to the following research fields: 
+I am a theoretical physicist working on various subjects in modern Nuclear and Particle Physics, in a close connection to the experiment. As of today, I have significantly contributed to the following research fields: 
 
 1) neutrino cross sections for oscillation experiments,
 
@@ -23,16 +23,16 @@ I am theoretical physicist working in various subjects of modern Nuclear and Par
 
 Keywords
 ------
-radiative corrections, neutrino interactions, nucleon structure, cross sections, effective field theory, quantum field theory, quantum electrodynamics, hadron physics, dispersion relations, non-perturbative methods, two-photon exchange.
+Radiative corrections, neutrino interactions, nucleon structure, cross sections, effective field theory, quantum field theory, quantum electrodynamics, hadron physics, dispersion relations, non-perturbative methods, two-photon exchange.
 
 For a detailed description of my research activities, please follow [this link](https://tomalak7.github.io/achievements).
 
-If you are interested in my research and/or collaboration, feel free to contact me via [Email](mailto:sashatomalak@icloud.com).
+If you are interested in my research and/or collaboration, please contact me via [Email](mailto:sashatomalak@icloud.com).
 
 This Home Page
 ------
 
-Besides standard [Resume](https://tomalak7.github.io/resume), [CV](https://tomalak7.github.io/cv), [Publications](https://tomalak7.github.io/publications), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements), you can find [Upcoming Conferences](https://tomalak7.github.io/conferences) I am going to attend in the near future and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
+Besides standard [Resume](https://tomalak7.github.io/resume), [CV](https://tomalak7.github.io/cv), [Publications](https://tomalak7.github.io/publications), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements), you can find [Upcoming Conferences](https://tomalak7.github.io/conferences) I am going to attend soon and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
 
 
 Experimental Activities of Interst
@@ -51,8 +51,9 @@ Below, I provide a list of experiments and activities I am excited about
 - [CLAS](https://www.jlab.org/physics/hall-b/clas)
 - [VEPP-3](https://v4.inp.nsk.su/vepp3/index.en.html)
 - [PRAD](https://www.jlab.org/prad/collaboration.html)
-- [Hypermu](https://www.psi.ch/en/ltp/hypermu), [FAMU](https://web.infn.it/FAMU/the-project/)
-- 
+- [Hypermu](https://www.psi.ch/en/ltp/hypermu)
+- [FAMU](https://web.infn.it/FAMU/the-project/)
+
 
 <!---
 Projects and Jobs
