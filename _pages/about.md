@@ -42,4 +42,4 @@ Experiemental Activities of Interst
 
 Projects and Jobs
 ------
-If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me vie [Email]().
+If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me vie [Email](mailto:sashatomalak@icloud.com).
