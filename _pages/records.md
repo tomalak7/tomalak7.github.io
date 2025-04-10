@@ -5,8 +5,6 @@ permalink: /records/
 author_profile: true
 ---
 
-## Video Recordings
-
 1. **[Status of proton radius puzzle and QED radiative corrections for accelerator neutrinos](https://youtu.be/o_QSQB_1bR4)**, seminar at [Korean Institute for Advanced Studies (KIAS)](https://www.kias.re.kr/kias/activities/seminars/list.do?menuNo=404003), Seoul, South Korea, 04/2023
 
 2. **[QED radiative corrections to charged-current neutrino-nucleon elastic scattering at GeV energies](https://youtu.be/5MFCMbKidJ8)**, talk at ECTStar Workshop [Radiative Corrections from medium to high energy experiments](https://indico.ectstar.eu/event/146/), Trento, Italy, 07/2022
