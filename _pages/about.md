@@ -70,7 +70,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a><br>
 - <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
-- <a href="https://web.infn.it/FAMU/the-project/">FAMU</a>
+- <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
 - <a href="https://magix.uni-mainz.de/">MAGIX&commatMESA</a>
 
 </div>
