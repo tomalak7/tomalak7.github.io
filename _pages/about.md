@@ -45,6 +45,7 @@ Below, I provide a list of experiments and activities I am excited about
 {{% column %}}- [NOvA](https://novaexperiment.fnal.gov){{% /column %}}
 {{% column %}}- [T2K](https://t2k-experiment.org){{% /column %}}
 {{% column %}}- [JUNO](http://juno.ihep.cas.cn){{% /column %}}
+{{% row %}}
 - [MUSE](https://www.physics.rutgers.edu/~rgilman/elasticmup/)
 - [AMBER](https://amber.web.cern.ch)
 - [EIC](https://www.bnl.gov/eic/)
