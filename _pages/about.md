@@ -9,7 +9,7 @@ redirect_from:
 
 I am a theoretical physicist working on various subjects in modern Nuclear and Particle Physics, in a close connection to the experiment. 
 
-As of today, I have significantly contributed to the following research fields: 
+As of today, I have significantly contributed to the following research areas: 
 
 1) neutrino cross sections for oscillation experiments,
 
