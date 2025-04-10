@@ -5,7 +5,7 @@ permalink: /achievements/
 author_profile: true
 ---
 
-In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
+In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics. {% cite Tomalak:2020tjj %}
 
 
 Neutrino Cross Sections for Oscillation Experiments
@@ -110,3 +110,6 @@ Concluding Remarks
 ------
 
 My most valuable contributions to nuclear and particle physics have advanced the field by providing critical theoretical frameworks, radiative corrections, and phenomenological calculations for analyzing and interpreting cutting-edge experiments. These contributions have not only influenced the direction of future studies but also established a solid foundation for ongoing research. To date, I have provided key theoretical and phenomenological inputs to the precise extraction of quark and lepton mixing matrices within the Standard Model and for analyzing proton and nuclear radii, form factors, and other non-perturbative structure-dependent quantities. These quantities are crucial in analyses of accurate measurements of atomic energy levels and experiments involving (anti)neutrinos, electrons, and muons. I have also developed innovative methods to evaluate critical theoretical inputs and determine fundamental parameters in low-energy neutral-current interactions across all known elementary particles and nuclei, as well as in charged-current interactions involving nucleons and pions. Through these efforts, I have provided the most accurate values for key fundamental interaction parameters at the quark, nucleon, and nuclear levels. Additionally, I have conducted numerous sensitivity studies that guide the design of future neutrino physics experiments. These accomplishments represent significant progress in our understanding of  nuclear and particle physics, setting the stage for continued experimental and theoretical research.
+
+## References
+{% bibliography %}
