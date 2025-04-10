@@ -10,6 +10,9 @@
 main:
   - title: "Home"
     url: /
+
+  - title: "Achievements"
+    url: /achievements/
     
   - title: "Resume"
     url: /files/Tomalak_Oleksandr_resume.pdf
@@ -22,9 +25,6 @@ main:
     
   - title: "Awards"
     url: /awards/
-    
-  - title: "Achievements"
-    url: /achievements/
     
   - title: "Conferences"
     url: /conferences/
