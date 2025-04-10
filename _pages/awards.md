@@ -7,7 +7,7 @@ author_profile: false
 
 ## Recognitions and awards
 
-1. **Best Doctoral Dissertation in The Departement of Physics, Mathematics, and Informatics**, Johannes Gutenberg University of Mainz, Mainz, Germany, 11/2027.
+1. **Outstanding Doctoral Dissertation in The Departement of Physics, Mathematics, and Informatics**, Johannes Gutenberg University of Mainz, Mainz, Germany, 11/2027.
 
 2. **Alumnus of the Year**, Taras Shevchenko National University, Kyiv, Ukraine, 06/2012
 
