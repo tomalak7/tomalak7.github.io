@@ -39,16 +39,19 @@ Experimental Activities of Interst
 ------
 
 Below, I provide a list of experiments and activities I am excited about
-- [DUNE]()
-- [Hyper-K]()
-- [NOvA]()
-- [T2K]()
-- [JUNO]()
-- [MUSE]()
-- [AMBER]()
-- [EIC]()
-[PRAD2]()
-- [Hyperfine](), [Hyperfine](), [Hyperfine]()
+- [DUNE](https://www.dunescience.org)
+- [Hyper-K](https://www-sk.icrr.u-tokyo.ac.jp/en/hk/)
+- [NOvA](https://novaexperiment.fnal.gov)
+- [T2K](https://t2k-experiment.org)
+- [JUNO](http://juno.ihep.cas.cn)
+- [MUSE](https://www.physics.rutgers.edu/~rgilman/elasticmup/)
+- [AMBER](https://amber.web.cern.ch)
+- [EIC](https://www.bnl.gov/eic/)
+- [OLYMPUS](https://web.mit.edu/olympus/)
+- [CLAS](https://www.jlab.org/physics/hall-b/clas)
+- [VEPP-3](https://v4.inp.nsk.su/vepp3/index.en.html)
+- [PRAD](https://www.jlab.org/prad/collaboration.html)
+- [Hypermu](https://www.psi.ch/en/ltp/hypermu), [FAMU](https://web.infn.it/FAMU/the-project/), [Hyperfine]()
 - 
 
 <!---
