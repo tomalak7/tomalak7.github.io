@@ -113,6 +113,8 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 ## References
 
+<span style="font-size: 18px;">
+
 [^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), arXiv preprint [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
 
 [^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), arXiv preprint [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
@@ -214,3 +216,4 @@ My most valuable contributions to nuclear and particle physics have advanced the
 [^50]: Cl. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog. Part. Nucl. Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
 
 [^51]: A. Afanasev, J.C. Bernauer, P. Blunden, J. Blümlein, Eth.W. Cline, J.M. Friedrich, Fr. Hagelstein, T. Husek, M. Kohl, Fr. Myhrer, G. Paz, S. Schadmand, A. Schmidt, Vl. Sharkovska, A. Signer, O. Tomalak, E. Tomasi-Gustafsson, Y. Ulrich, and M. Vanderhaeghen (2024). "Radiative corrections: from medium to high energy experiments". [*Eur. Phys. J. A 60 4, 91*](https://link.springer.com/article/10.1140/epja/s10050-024-01281-y), arXiv preprint [arXiv:2306.14578](https://arxiv.org/abs/2306.14578).
+</span>
