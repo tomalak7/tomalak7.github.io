@@ -9,7 +9,8 @@ author_profile: true
     <style>
         /* Increase the font size for footnote references */
         .footnotes  {
-            font-size: 1.8em;  /* Adjust the size as needed */
+            font-size: 2.0em;  /* Adjust the size as needed */
+            color: #000000;
         }
     </style>
 </head>
