@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Effective field theory for radiative corrections to charged-current processes: neutron decay and Vud<br />Theory Workshop on Neutrino Physics, Center for Theoretical Underground Physics and Related Areas, Lead, SD, USA",
+    44.3471,
+    103.7763
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    122.272863
+    "On the uncertainty of CEvNS cross sections (online)<br />Magnificent CEvNS 2025, Brazilian Center for Physics Research, Rio de Janeiro, Brazil",
+    -22.9524,
+    -43.1709
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "QED Nuclear Medium Effects at EIC Energies<br />Bridging Theory and Experiment at the Electron-Ion Collider, Institute for Nuclear Theory, Seattle, WA, USA",
+    47.6556,
+    122.3035
   ]
 ];
