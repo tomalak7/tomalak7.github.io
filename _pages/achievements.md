@@ -4,7 +4,7 @@ title: "Achievements"
 permalink: /achievements/
 author_profile: true
 ---
-
+<style>
 .footnotes {
   font-size: 18px; /* or whatever size you want */
 }
@@ -12,6 +12,7 @@ author_profile: true
 .footnotes li {
   margin-bottom: 0.1em;
 }
+</style>
 
 In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
 
