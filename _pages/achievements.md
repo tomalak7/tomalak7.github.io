@@ -17,7 +17,7 @@ author_profile: true
             color: #00008B;       /* Change the color of footnote references */
         }
         /* Target footnote numbers specifically within footnote content */
-        .footnotes li:first-letter {
+        .footnotes ul:first-letter {
             font-size: 0.8em;
         }
     </style>
