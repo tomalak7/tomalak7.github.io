@@ -11,7 +11,7 @@ author_profile: true
         .footnotes  {
             font-size: 2.0em;  /* Adjust the size as needed */
         }
-        a.footnote-ref {  /* In case the footnote references are rendered as links */
+        a.footnotes-ref {  /* In case the footnote references are rendered as links */
             color: #00008B;    /* Change this to your desired color */
         }
     </style>
