@@ -7,15 +7,10 @@ author_profile: true
 
 <head>
   <style>
-    /* Style to increase font size for footnote references */
-    sup[id^="fnref"] {
-      font-size: 1.5em;
-      font-weight: bold;
-    }
 
     /* Style to increase font size for footnotes in the body */
     .footnote {
-      font-size: 1.2em;
+      font-size: 1.4em;
     }
 
     /* Style for footnote marker in the reference section */
