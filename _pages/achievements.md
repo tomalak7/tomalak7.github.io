@@ -115,100 +115,100 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), *arXiv preprint* [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
 
-[^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub),*arXiv preprint* [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
+[^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), *arXiv preprint* [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
 
-[^3]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005),*arXiv preprint* [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
+[^3]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005), *arXiv preprint* [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
 
-[^4]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^4]: Particle Data Group (2024). "Review of particle physics". [*Phys. Rev. D 110 3, 030001*](https://pdg.lbl.gov/2024/listings/rpp2024-list-neutrino-prop.pdf).
 
-[^5]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^5]: O. Tomalak, Q. Chen, R. J. Hill, and K. S. McFarland (2022). "QED radiative corrections for accelerator neutrinos". [*Nature Commun. 13 1, 5286*](https://www.nature.com/articles/s41467-022-32974-x), *arXiv preprint* [arXiv:2105.07939](https://arxiv.org/abs/2105.07939).
 
-[^6]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^6]: O. Tomalak, Q. Chen, R. J. Hill, K. S. McFarland, and Cl. Wret (2022). "Theory of QED radiative corrections to neutrino scattering at accelerator energies". [*Phys.Rev.D 106 9, 093006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.093006), *arXiv preprint* [arXiv:2204.11379](https://arxiv.org/abs/2204.11379).
 
-[^7]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^7]: COHERENT Collaboration (2017). "Observation of Coherent Elastic Neutrino-Nucleus Scattering". [*Science 357 6356, 1123-1126*](https://www.science.org/doi/10.1126/science.aao0990), *arXiv preprint* [arXiv:1708.01294](https://arxiv.org/abs/1708.01294).
 
-[^8]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^8]: O. Tomalak, P. Machado, V. Pandey, and R. Plestid (2021). "Flavor-dependent radiative corrections in coherent elastic neutrino-nucleus scattering". [*JHEP 02 097*](https://link.springer.com/article/10.1007/JHEP02(2021)097), *arXiv preprint* [arXiv:2011.05960](https://arxiv.org/abs/2011.05960).
 
-[^9]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^9]: O. Tomalak (2022). "Radiative (anti)neutrino energy spectra from muon, pion, and kaon decays". [*Phys. Lett. B 829, 137108*](https://www.sciencedirect.com/science/article/pii/S0370269322002428?via%3Dihub), *arXiv preprint* [arXiv:2112.12395](https://arxiv.org/abs/2112.12395).
 
-[^10]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^10]: O. Tomalak (2023). "Radiative Corrections to Neutron Beta Decay and (Anti)Neutrino-Nucleon Scattering from Low-Energy Effective Field Theory". [*Few Body Syst. 64 2, 23*](https://link.springer.com/article/10.1007/s00601-023-01802-3), *arXiv preprint* [arXiv:2302.00642](https://arxiv.org/abs/2302.00642).
 
-[^11]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^11]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2023). "Effective field theory for radiative corrections to charged-current processes: I. Vector coupling". [*Phys.Rev.D 108 5, 053003*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.053003), *arXiv preprint* [arXiv:2306.03138](https://arxiv.org/abs/2306.03138).
 
-[^12]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^12]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2025). "Effective field theory for radiative corrections to charged-current processes: II. Axial-vector coupling". [*Phys.Rev.D 111 9, 053005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.053005), *arXiv preprint* [arXiv:2410.21404](https://arxiv.org/abs/2410.21404).
 
-[^13]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^13]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^14]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^14]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^15]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^15]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^16]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^16]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^17]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^17]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^18]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^18]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^19]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^19]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^20]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^20]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^21]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^21]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^22]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^22]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^23]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^23]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^24]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^24]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^25]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^25]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^26]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^26]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^27]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^27]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^28]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^28]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^29]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^29]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^30]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^30]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^31]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^31]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^32]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^32]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^33]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^33]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^34]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^34]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^35]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^35]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^36]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^36]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^37]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^37]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^38]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^38]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^39]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^39]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^40]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^40]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^41]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^41]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^42]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^42]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^43]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^43]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^44]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^44]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^45]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^45]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^46]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^46]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^47]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^47]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^48]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^48]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^49]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^49]: (20). "". [**](), *arXiv preprint* [arXiv:]().
 
-[^50]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+[^50]: (20). "". [**](), *arXiv preprint* [arXiv:]().
