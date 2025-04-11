@@ -13,11 +13,6 @@ author_profile: true
       font-size: 1.4em;
     }
 
-    /* Style for footnote marker in the reference section */
-    .footnote a {
-      font-size: 1.8em;
-      font-weight: bold;
-    }
   </style>
 </head
 
