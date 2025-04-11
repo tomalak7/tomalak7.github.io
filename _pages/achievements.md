@@ -18,7 +18,7 @@ author_profile: true
         }
         /* Target footnote numbers specifically within footnote content */
         .footnote a {
-              font-size: 1.8em; /* Adjust this value to change the size of the number */
+              font-size: 1.0em; /* Adjust this value to change the size of the number */
         }
     </style>
 </head>
