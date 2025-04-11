@@ -177,8 +177,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^32]: K. Borah, M. Betancourt, R.J. Hill, Th. Junk, and O. Tomalak (2024). "Invariant amplitudes, unpolarized cross sections, and polarization asymmetries in neutrino-nucleon and antineutrino-nucleon elastic scattering". [*Phys. Rev. D 110 1, 013004*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013004), arXiv preprint [arXiv:2403.04687](https://arxiv.org/abs/2403.04687).
 
-[^33]: O. Tomalak, K. Borah, M. Betancourt, R.J. Hill, and Th. Junk (2024). "Constraints on new physics with (anti)neutrino-nucleon scattering data
-". [*Phys. Lett. B 854 138718*](https://www.sciencedirect.com/science/article/pii/S0370269324002764?via%3Dihub), arXiv preprint [arXiv:2402.14115](https://arxiv.org/abs/2402.14115).
+[^33]: O. Tomalak, K. Borah, M. Betancourt, R.J. Hill, and Th. Junk (2024). "Constraints on new physics with (anti)neutrino-nucleon scattering data". [*Phys. Lett. B 854 138718*](https://www.sciencedirect.com/science/article/pii/S0370269324002764?via%3Dihub), arXiv preprint [arXiv:2402.14115](https://arxiv.org/abs/2402.14115).
 
 [^34]: R. Pohl et al. (2010). "The size of the proton". [*Nature 466 213-216*]([https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.203001](https://www.nature.com/articles/nature09250)).
 
