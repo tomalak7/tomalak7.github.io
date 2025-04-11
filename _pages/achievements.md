@@ -5,6 +5,23 @@ permalink: /achievements/
 author_profile: true
 ---
 
+<head>
+  <style>
+    .footnotes {
+      font-size: 18px; /* Adjust this value as needed */
+    }
+
+    .footnotes li {
+      margin-bottom: 0.1em;
+      font-size: 20px; /* Increase font size of footnote references */
+    }
+
+    .footnotes a {
+      font-size: 20px; /* Ensure the font size of links in footnotes is also increased */
+    }
+  </style>
+</head>
+
 In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
 
 
