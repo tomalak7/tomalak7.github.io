@@ -36,7 +36,7 @@ If you are interested in my research and/or collaboration, please contact me via
 This Home Page
 ------
 
-You can find [Resume](https://tomalak7.github.io/resume), [CV](https://tomalak7.github.io/cv), [Publications](https://tomalak7.github.io/publications), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements) on this [Home Page](https://tomalak7.github.io/). Additionally, you can find [Upcoming Conferences](https://tomalak7.github.io/conferences) I am going to attend soon and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
+You can find [Resume](https://tomalak7.github.io/files/Tomalak_Oleksandr_resume.pdf), [CV](https://tomalak7.github.io/files/Tomalak_Oleksandr_CV_pub.pdf), [Publications](https://inspirehep.net/authors/1077543), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements) on this [Home Page](https://tomalak7.github.io/). Additionally, you can find [Upcoming Conferences](https://tomalak7.github.io/conferences) I am going to attend soon and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
 
 
 Experimental Activities of Interst
