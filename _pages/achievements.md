@@ -113,18 +113,102 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 ## References
 
-[^1]: Topol, E. (2019). *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again*. Basic Books.
+[^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), *arXiv preprint* [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
 
-[^2]: Esteva, A., et al. (2017). "Dermatologist-level classification of skin cancer with deep neural networks." *Nature*, 542(7639), 115–118.
+[^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub),*arXiv preprint* [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
 
-[^3]: Miotto, R., et al. (2016). "Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records." *Scientific Reports*, 6, 26094.
+[^3]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005),*arXiv preprint* [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
 
-[^4]: Rajpurkar, P., et al. (2017). "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning." *arXiv preprint* arXiv:1711.05225.
+[^4]: (20). "". [**](),*arXiv preprint* [arXiv:]().
 
-[^5]: Gulshan, V., et al. (2016). "Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs." *JAMA*, 316(22), 2402–2410.
+[^5]: (20). "". [**](),*arXiv preprint* [arXiv:]().
 
-[^6]: Komorowski, M., et al. (2018). "The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care." *Nature Medicine*, 24(11), 1716–1720.
+[^6]: (20). "". [**](),*arXiv preprint* [arXiv:]().
 
-[^7]: Rajkomar, A., et al. (2018). "Scalable and accurate deep learning with electronic health records." *npj Digital Medicine*, 1(1), 18.
+[^7]: (20). "". [**](),*arXiv preprint* [arXiv:]().
 
-[^8]: Obermeyer, Z., & Mullainathan, S. (2019). "Dissecting racial bias in an algorithm used to manage the health of populations." *Science*, 366(6464), 447–453.
+[^8]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^9]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^10]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^11]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^12]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^13]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^14]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^15]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^16]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^17]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^18]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^19]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^20]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^21]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^22]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^23]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^24]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^25]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^26]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^27]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^28]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^29]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^30]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^31]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^32]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^33]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^34]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^35]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^36]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^37]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^38]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^39]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^40]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^41]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^42]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^43]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^44]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^45]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^46]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^47]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^48]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^49]: (20). "". [**](),*arXiv preprint* [arXiv:]().
+
+[^50]: (20). "". [**](),*arXiv preprint* [arXiv:]().
