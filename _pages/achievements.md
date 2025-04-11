@@ -163,45 +163,46 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^25]: M. Heller, O. Tomalak, and M. Vanderhaeghen (2018). "Soft-photon corrections to the Bethe-Heitler process in the γp → l<sup>+</sup>l<sup>-</sup>p reaction". [*Phys.Rev.D 97 7, 076012*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.076012), arXiv preprint [arXiv:1802.07174](https://arxiv.org/abs/1802.07174).
 
-[^26]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^26]: M. Heller, O. Tomalak, and M. Vanderhaeghen (2019). "Leading Order Corrections to the Bethe-Heitler Process in the γp → l<sup>+</sup>l<sup>-</sup>p reaction". [*Phys.Rev.D 100 7, 076013*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.076013), arXiv preprint [arXiv:1906.02706](https://arxiv.org/abs/1906.02706).
 
-[^27]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^27]: Vl. Pauk and M. Vanderhaeghen (2015). "Lepton universality test in the photoproduction of e<sup>+</sup>e<sup>-</sup> versus μ<sup>+</sup>μ<sup>-</sup> pairs on a proton target". [*Phys.Rev.Lett. 115 22, 221804*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.221804), arXiv preprint [arXiv:1503.01362](https://arxiv.org/abs/1503.01362).
 
-[^28]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^28]: MINERvA Collaboration (2023). "Measurement of the axial vector form factor from antineutrino–proton scattering". [*Nature 614 7946, 48-53*](https://www.nature.com/articles/s41586-022-05478-3).
 
-[^29]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^29]: O. Tomalak, R. Gupta, and T. Bhattacharya (2023). "Confronting the axial-vector form factor from lattice QCD with MINERvA antineutrino-proton data". [*Phys.Rev.D 108 7, 074514*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.074514), arXiv preprint [arXiv:2307.14920](https://arxiv.org/abs/2307.14920).
 
-[^30]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^30]: R. Petti, R.J. Hill, and O. Tomalak (2024). "Nucleon axial-vector form factor and radius from future neutrino experiments". [*Phys.Rev.D 109 5, L051301*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.L051301), arXiv preprint [arXiv:2309.02509](https://arxiv.org/abs/2309.02509).
 
-[^31]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^31]: O. Tomalak (2021). "Axial and pseudoscalar form factors from charged current quasielastic neutrino-nucleon scattering". [*Phys.Rev.D 103 1, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.013006), arXiv preprint [arXiv:2008.03527](https://arxiv.org/abs/2008.03527).
 
-[^32]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^32]: K. Borah, M. Betancourt, R.J. Hill, Th. Junk, and O. Tomalak (2024). "Invariant amplitudes, unpolarized cross sections, and polarization asymmetries in neutrino-nucleon and antineutrino-nucleon elastic scattering". [*Phys. Rev. D 110 1, 013004*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013004), arXiv preprint [arXiv:2403.04687](https://arxiv.org/abs/2403.04687).
 
-[^33]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^33]: O. Tomalak, K. Borah, M. Betancourt, R.J. Hill, and Th. Junk (2024). "Constraints on new physics with (anti)neutrino-nucleon scattering data
+". [*Phys. Lett. B 854 138718*](https://www.sciencedirect.com/science/article/pii/S0370269324002764?via%3Dihub), arXiv preprint [arXiv:2402.14115](https://arxiv.org/abs/2402.14115).
 
-[^34]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^34]: Chr.G. Partney et al. (2011). "Improved Measurement of the Hydrogen 1S - 2S Transition Frequency". [*Phys.Rev.Lett. 107 203001*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.203001), arXiv preprint [arXiv:1107.3101](https://arxiv.org/abs/1107.3101).
 
-[^35]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^35]: O. Tomalak (2019). "Two-Photon Exchange Correction to the Lamb Shift and Hyperfine Splitting of S Levels". [*Eur.Phys.J.A 55 5, 64*](https://link.springer.com/article/10.1140/epja/i2019-12743-1), arXiv preprint [arXiv:1808.09204](https://arxiv.org/abs/1808.09204).
 
-[^36]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^36]: O. Tomalak (2019). "Two-photon exchange on the neutron and the hyperfine splitting". [*Phys.Rev.D 99 5, 056018*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.056018), arXiv preprint [arXiv:1812.03884](https://arxiv.org/abs/1812.03884).
 
-[^37]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^37]: O. Tomalak (2017). "Two-photon exchange correction to the hyperfine splitting in muonic hydrogen". [*Eur.Phys.J.C 77 12, 858*](https://link.springer.com/article/10.1140/epjc/s10052-017-5435-z), arXiv preprint [arXiv:1708.02509](https://arxiv.org/abs/1708.02509).
 
-[^38]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^38]: O. Tomalak (2018). "Hyperfine splitting in ordinary and muonic hydrogen". [*Eur.Phys.J.A 54 1, 3*](https://link.springer.com/article/10.1140/epja/i2018-12453-2), arXiv preprint [arXiv:1709.06544](https://arxiv.org/abs/1709.06544).
 
-[^39]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^39]: O. Tomalak (2017). "Forward two-photon exchange in elastic lepton–proton scattering and hyperfine-splitting correction". [*Eur.Phys.J.C 77 (2017) 8, 517*](https://link.springer.com/article/10.1140/epjc/s10052-017-5087-z), arXiv preprint [arXiv:1701.05514](https://arxiv.org/abs/1701.05514).
 
-[^40]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^40]: O. Tomalak and I. Vitev (2022). "QED medium effects in (anti)neutrino-nucleus and electron-nucleus scattering: Elastic scattering on nucleons". [*Phys.Lett.B 835 137492*](https://www.sciencedirect.com/science/article/pii/S0370269322006268?via%3Dihub), arXiv preprint [arXiv:2206.10637](https://arxiv.org/abs/2206.10637).
 
-[^41]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^41]: O. Tomalak and I. Vitev (2023). "Broadening of particle distributions in electron-, neutrino-, and antineutrino-nucleus scattering from QED interactions". [*Phys.Rev.D 108 9, 9*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.093003), arXiv preprint [arXiv:2310.01414](https://arxiv.org/abs/2310.01414).
 
-[^42]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^42]: O. Tomalak and I. Vitev (2025). "QED nuclear medium effects at EIC energies". [*Phys. Rev. D *](), arXiv preprint [arXiv:2502.06943](https://arxiv.org/abs/2502.06943).
 
-[^43]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^43]: O. Tomalak and I. Vitev (2024). "Medium-induced photon bremsstrahlung in neutrino-nucleus, antineutrino-nucleus, and electron-nucleus scattering from multiple QED interactions". [*Phys.Rev.D 109 7, 073010*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.073010), arXiv preprint [arXiv:2402.16851](https://arxiv.org/abs/2402.16851).
 
-[^44]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^44]: O. Tomalak (2020). "Electromagnetic proton–neutron mass difference". [*Eur.Phys.J.Plus 135 6, 411*](https://link.springer.com/article/10.1140/epjp/s13360-020-00413-9), arXiv preprint [arXiv:1810.02502](https://arxiv.org/abs/1810.02502).
 
-[^45]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^45]: M. Sydorenko, O. Tomalak, and Yu. Shtanov (2016). "Magnetic fields and chiral asymmetry in the early hot universe". [*JCAP 10 018*](), arXiv preprint [arXiv:1607.04845](https://arxiv.org/abs/1607.04845).
 
 [^46]: (20). "". [**](), arXiv preprint [arXiv:]().
 
