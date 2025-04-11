@@ -174,7 +174,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^26]: M. Heller, O. Tomalak, and M. Vanderhaeghen (2019). "Leading Order Corrections to the Bethe-Heitler Process in the γp → l<sup>+</sup>l<sup>-</sup>p reaction". [*Phys. Rev. D 100 7, 076013*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.076013), arXiv preprint [arXiv:1906.02706](https://arxiv.org/abs/1906.02706).
 
-[^27]: Vl. Pauk and M. Vanderhaeghen (2015). "Lepton universality test in the photoproduction of e<sup>+</sup>e<sup>-</sup> versus μ<sup>+</sup>μ<sup>-</sup> pairs on a proton target". [*Phys. Rev. Lett. 115 22, 221804*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.221804), arXiv preprint [arXiv:1503.01362](https://arxiv.org/abs/1503.01362).
+[^27]: V. Pauk and M. Vanderhaeghen (2015). "Lepton universality test in the photoproduction of e<sup>+</sup>e<sup>-</sup> versus μ<sup>+</sup>μ<sup>-</sup> pairs on a proton target". [*Phys. Rev. Lett. 115 22, 221804*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.221804), arXiv preprint [arXiv:1503.01362](https://arxiv.org/abs/1503.01362).
 
 [^28]: MINERvA Collaboration (2023). "Measurement of the axial vector form factor from antineutrino–proton scattering". [*Nature 614 7946, 48-53*](https://www.nature.com/articles/s41586-022-05478-3).
 
@@ -184,7 +184,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^31]: O. Tomalak (2021). "Axial and pseudoscalar form factors from charged current quasielastic neutrino-nucleon scattering". [*Phys. Rev. D 103 1, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.013006), arXiv preprint [arXiv:2008.03527](https://arxiv.org/abs/2008.03527).
 
-[^32]: K. Borah, M. Betancourt, R.J. Hill, Th. Junk, and O. Tomalak (2024). "Invariant amplitudes, unpolarized cross sections, and polarization asymmetries in neutrino-nucleon and antineutrino-nucleon elastic scattering". [*Phys. Rev. D 110 1, 013004*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013004), arXiv preprint [arXiv:2403.04687](https://arxiv.org/abs/2403.04687).
+[^32]: K. Borah, M. Betancourt, R.J. Hill, T. Junk, and O. Tomalak (2024). "Invariant amplitudes, unpolarized cross sections, and polarization asymmetries in neutrino-nucleon and antineutrino-nucleon elastic scattering". [*Phys. Rev. D 110 1, 013004*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013004), arXiv preprint [arXiv:2403.04687](https://arxiv.org/abs/2403.04687).
 
 [^33]: O. Tomalak, K. Borah, M. Betancourt, R.J. Hill, and Th. Junk (2024). "Constraints on new physics with (anti)neutrino-nucleon scattering data". [*Phys. Lett. B 854 138718*](https://www.sciencedirect.com/science/article/pii/S0370269324002764?via%3Dihub), arXiv preprint [arXiv:2402.14115](https://arxiv.org/abs/2402.14115).
 
@@ -192,7 +192,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^35]: A. Antognini et al. (2011). "Proton Structure from the Measurement of 2S−2P Transition Frequencies of Muonic Hydrogen". [*Science 339 417-420*](https://www.science.org/doi/10.1126/science.1230016).
 
-[^36]: Chr.G. Partney et al. (2011). "Improved Measurement of the Hydrogen 1S - 2S Transition Frequency". [*Phys. Rev. Lett. 107 203001*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.203001), arXiv preprint [arXiv:1107.3101](https://arxiv.org/abs/1107.3101).
+[^36]: C.G. Partney et al. (2011). "Improved Measurement of the Hydrogen 1S - 2S Transition Frequency". [*Phys. Rev. Lett. 107 203001*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.203001), arXiv preprint [arXiv:1107.3101](https://arxiv.org/abs/1107.3101).
 
 [^37]: O. Tomalak (2019). "Two-Photon Exchange Correction to the Lamb Shift and Hyperfine Splitting of S Levels". [*Eur. Phys. J. A 55 5, 64*](https://link.springer.com/article/10.1140/epja/i2019-12743-1), arXiv preprint [arXiv:1808.09204](https://arxiv.org/abs/1808.09204).
 
@@ -220,6 +220,6 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^49]: ZEUS Collaboration (2010). "Measurement of beauty production in DIS and F<sub>2</sub><sup>bb̅</sup> extraction at ZEUS". [*Eur. Phys. J. C 69*](https://inspirehep.net/literature/855232), arXiv preprint [arXiv:1005.3396](https://arxiv.org/abs/1005.3396).
 
-[^50]: Cl. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog. Part. Nucl. Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
+[^50]: C. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog. Part. Nucl. Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
 
-[^51]: A. Afanasev, J.C. Bernauer, P. Blunden, J. Blümlein, Eth.W. Cline, J.M. Friedrich, Fr. Hagelstein, T. Husek, M. Kohl, Fr. Myhrer, G. Paz, S. Schadmand, A. Schmidt, Vl. Sharkovska, A. Signer, O. Tomalak, E. Tomasi-Gustafsson, Y. Ulrich, and M. Vanderhaeghen (2024). "Radiative corrections: from medium to high energy experiments". [*Eur. Phys. J. A 60 4, 91*](https://link.springer.com/article/10.1140/epja/s10050-024-01281-y), arXiv preprint [arXiv:2306.14578](https://arxiv.org/abs/2306.14578).
+[^51]: A. Afanasev, J.C. Bernauer, P. Blunden, J. Blümlein, E.W. Cline, J.M. Friedrich, F. Hagelstein, T. Husek, M. Kohl, F. Myhrer, G. Paz, S. Schadmand, A. Schmidt, Vl. Sharkovska, A. Signer, O. Tomalak, E. Tomasi-Gustafsson, Y. Ulrich, and M. Vanderhaeghen (2024). "Radiative corrections: from medium to high energy experiments". [*Eur. Phys. J. A 60 4, 91*](https://link.springer.com/article/10.1140/epja/s10050-024-01281-y), arXiv preprint [arXiv:2306.14578](https://arxiv.org/abs/2306.14578).
