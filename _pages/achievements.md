@@ -10,16 +10,7 @@ author_profile: true
         /* Increase the font size for footnote references */
         .footnotes  {
             font-size: 2.0em;  /* Adjust the size as needed */
-            color: #000000;
         }        
-        /* Target the footnote references */
-        sup[id^="fnref"] {
-            color: #00008B;       /* Change the color of footnote references */
-        }
-        /* Target footnote numbers specifically within footnote content */
-        .footnotes ul:first-letter {
-            font-size: 0.8em;
-        }
     </style>
 </head>
 
