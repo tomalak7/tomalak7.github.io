@@ -155,13 +155,13 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^21]: PRAD Collaboration (2019). "A small proton charge radius from an electron–proton scattering experiment". [*Nature 575 7781, 147-150*](https://www.nature.com/articles/s41586-019-1721-2).
 
-[^22]: K. Borah, R.J. Hill, G. Lee, and O. Tomalak (2020). "Parametrization and applications of the low-Q<sup>2</sup> nucleon vector form factors". [*Phys.Rev.D 102 7, 074012*](), arXiv preprint [arXiv:2003.13640]().
+[^22]: K. Borah, R.J. Hill, G. Lee, and O. Tomalak (2020). "Parametrization and applications of the low-Q<sup>2</sup> nucleon vector form factors". [*Phys.Rev.D 102 7, 074012*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.074012), arXiv preprint [arXiv:2003.13640](https://arxiv.org/abs/2003.13640).
 
-[^23]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^23]: A1 Collaboration (2010). "High-precision determination of the electric and magnetic form factors of the proton". [*Phys.Rev.Lett. 105 242001*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.105.242001), arXiv preprint [arXiv:1007.5076](https://arxiv.org/abs/1007.5076).
 
-[^24]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^24]: A1 Collaboration (2014). "Electric and magnetic form factors of the proton". [*Phys.Rev.C 90 1, 015206*](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.015206), arXiv preprint [arXiv:1307.6227](https://arxiv.org/abs/1307.6227).
 
-[^25]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^25]: M. Heller, O. Tomalak, and M. Vanderhaeghen (2018). "Soft-photon corrections to the Bethe-Heitler process in the γp → l<sup>+</sup>l<sup>-</sup>p reaction". [*Phys.Rev.D 97 7, 076012*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.076012), arXiv preprint [arXiv:1802.07174](https://arxiv.org/abs/1802.07174).
 
 [^26]: (20). "". [**](), arXiv preprint [arXiv:]().
 
