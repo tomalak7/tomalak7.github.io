@@ -5,9 +5,9 @@ permalink: /awards/
 author_profile: false
 ---
 
-1. **Winner of Poster Competition**, Electromagnetic Interactions with Nucleons and Nuclei, Annabelle Hotel, Paphos, Cyprus, 11/2015 and 11/2017.
+1. **Winner of Poster Competition**, Electromagnetic Interactions with Nucleons and Nuclei, Annabelle Hotel, Paphos, Cyprus, 11/2015 and 11/2017
    
-2. **Outstanding Doctoral Dissertation in The Departement of Physics, Mathematics, and Informatics**, Johannes Gutenberg University of Mainz, Mainz, Germany, 11/2017.
+2. **Outstanding Doctoral Dissertation in The Departement of Physics, Mathematics, and Informatics**, Johannes Gutenberg University of Mainz, Mainz, Germany, 11/2017
 
 3. **Alumnus of the Year**, Taras Shevchenko National University, Kyiv, Ukraine, 06/2012
 
