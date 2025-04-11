@@ -18,7 +18,7 @@ author_profile: true
         }
         /* Target footnote numbers specifically within footnote content */
         .footnotes li:first-letter {
-            font-size: 1.2em;
+            font-size: 0.8em;
         }
     </style>
 </head>
