@@ -8,10 +8,8 @@ author_profile: true
 <head>
     <style>
         /* Increase the font size for footnote references */
-        sup[href^="fnref"] {
-            font-size: 1.5em;  /* Adjust the size as needed */
-            font-weight: bold; /* Optional: make the footnote reference bold */
-            color: #d9534f;    /* Optional: change color */
+        .footnote, .footnote p  {
+            font-size: 1.8em;  /* Adjust the size as needed */
         }
     </style>
 </head>
