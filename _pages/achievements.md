@@ -16,10 +16,15 @@ author_profile: true
         sup[id^="fnref"] {
             color: #00008B;       /* Change the color of footnote references */
         }
+        /* Target footnote numbers specifically within footnote content */
+        .footnote a {
+              font-size: 1.8em; /* Adjust this value to change the size of the number */
+        }
     </style>
 </head>
 
-In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of my work for nuclear and particle physics.
+In the following sections, I will detail my primary research achievements, discuss my complementary expertise and research results, and provide a high-level overview of the broader implications of m
+y work for nuclear and particle physics.
 
 
 Neutrino Cross Sections for Oscillation Experiments
