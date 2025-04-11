@@ -17,8 +17,8 @@ author_profile: true
             color: #00008B;       /* Change the color of footnote references */
         }
         /* Target footnote numbers specifically within footnote content */
-        .footnote a {
-              font-size: 1.0em; /* Adjust this value to change the size of the number */
+        .footnotes a {
+              font-size: 0.8em; /* Adjust this value to change the size of the number */
         }
     </style>
 </head>
