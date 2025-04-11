@@ -49,11 +49,11 @@ Elastic scattering of leptons is a key tool for probing general properties of pr
 
 The TPE corrections are expressed as a sum over intermediate proton states and inelastic contributions. For scattering at small angles, I included both proton and inelastic intermediate states in the elastic electron-proton and muon-proton scattering[^13][^14][^15]. I derived several model-independent expressions for cross-sections and amplitudes in this regime, providing a more accurate theoretical framework for interpreting experimental data.
 
-To address the most uncertain radiative corrections in elastic electron-proton scattering, I developed a novel dispersion relation framework for TPE corrections, incorporating proton and pion-nucleon intermediate states. A cornerstone of this work was the development of two innovative methods for the analytical continuation of one-particle[^16] and multiparticle[^17] intermediate states. These methods enabled the calculation of TPE contributions from the proton intermediate state across arbitrary kinematics and from pion-nucleon intermediate states at small momentum transfers (below 1 GeV)[^18][^19][^20]. This advancement allows for a more comprehensive understanding of the radiative corrections involved.
+To address the most uncertain radiative corrections in elastic electron-proton scattering, I developed a novel dispersion relation framework for TPE corrections, incorporating proton and pion-nucleon intermediate states. A cornerstone of this work was the development of two innovative methods for the analytical continuation of one-particle[^16] and multiparticle[^17] intermediate states. These methods enabled the calculation of TPE contributions from the proton intermediate state across arbitrary kinematics and from pion-nucleon intermediate states at small momentum transfers (below 1 GeV)[^17][^18][^19][^20]. This advancement allows for a more comprehensive understanding of the radiative corrections involved.
 
-In studying the inelastic TPE contributions, I developed a new approach for evaluating the subtraction function in forward doubly-virtual Compton scattering[^14]. I applied this method to experimental data, obtaining unexpected predictions, later confirmed by calculations within the Chiral Perturbation Theory. This new approach offers a powerful tool for refining the theoretical framework of nucleon structure.
+In studying the inelastic TPE contributions, I developed a new approach for evaluating the subtraction function in forward doubly-virtual Compton scattering[^15]. I applied this method to experimental data, obtaining unexpected predictions, later confirmed by calculations within the Chiral Perturbation Theory. This new approach offers a powerful tool for refining the theoretical framework of nucleon structure.
 
-My calculations for inelastic TPE corrections to elastic electron-proton scattering at small angles[^13] were included in the standard radiative correction package used in the analysis of the PRAD experiment at JLab[^21]. These contributions played a crucial role in reducing systematic uncertainties of the proton charge radius.
+My calculations for inelastic TPE corrections to elastic electron-proton scattering at small angles[^14] were included in the standard radiative correction package used in the analysis of the PRAD experiment at JLab[^21]. These contributions played a crucial role in reducing systematic uncertainties of the proton charge radius.
 
 Further, I contributed to the area of proton and neutron vector form factors by providing my TPE calculations. This analysis focused on the low-energy region and offered central values, uncertainties, and correlations for evaluating observables in atomic and neutrino physics[^22]. With updated nucleon form factors, I evaluated the elastic TPE contributions to S energy levels for neutrons and protons, providing the first robust uncertainty estimate. This updated analysis revealed 3-5% shifts in the (anti)neutrino-nucleon scattering cross sections, driven by incorporating the most recent electron-proton scattering data from the A1 Collaboration[^23][^24].
 
@@ -113,102 +113,102 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 ## References
 
-[^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), *arXiv preprint* [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
+[^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), arXiv preprint [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
 
-[^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), *arXiv preprint* [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
+[^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), arXiv preprint [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
 
-[^3]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005), *arXiv preprint* [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
+[^3]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005), arXiv preprint [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
 
 [^4]: Particle Data Group (2024). "Review of particle physics". [*Phys. Rev. D 110 3, 030001*](https://pdg.lbl.gov/2024/listings/rpp2024-list-neutrino-prop.pdf).
 
-[^5]: O. Tomalak, Q. Chen, R. J. Hill, and K. S. McFarland (2022). "QED radiative corrections for accelerator neutrinos". [*Nature Commun. 13 1, 5286*](https://www.nature.com/articles/s41467-022-32974-x), *arXiv preprint* [arXiv:2105.07939](https://arxiv.org/abs/2105.07939).
+[^5]: O. Tomalak, Q. Chen, R. J. Hill, and K. S. McFarland (2022). "QED radiative corrections for accelerator neutrinos". [*Nature Commun. 13 1, 5286*](https://www.nature.com/articles/s41467-022-32974-x), arXiv preprint [arXiv:2105.07939](https://arxiv.org/abs/2105.07939).
 
-[^6]: O. Tomalak, Q. Chen, R. J. Hill, K. S. McFarland, and Cl. Wret (2022). "Theory of QED radiative corrections to neutrino scattering at accelerator energies". [*Phys.Rev.D 106 9, 093006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.093006), *arXiv preprint* [arXiv:2204.11379](https://arxiv.org/abs/2204.11379).
+[^6]: O. Tomalak, Q. Chen, R. J. Hill, K. S. McFarland, and Cl. Wret (2022). "Theory of QED radiative corrections to neutrino scattering at accelerator energies". [*Phys.Rev.D 106 9, 093006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.093006), arXiv preprint [arXiv:2204.11379](https://arxiv.org/abs/2204.11379).
 
-[^7]: COHERENT Collaboration (2017). "Observation of Coherent Elastic Neutrino-Nucleus Scattering". [*Science 357 6356, 1123-1126*](https://www.science.org/doi/10.1126/science.aao0990), *arXiv preprint* [arXiv:1708.01294](https://arxiv.org/abs/1708.01294).
+[^7]: COHERENT Collaboration (2017). "Observation of Coherent Elastic Neutrino-Nucleus Scattering". [*Science 357 6356, 1123-1126*](https://www.science.org/doi/10.1126/science.aao0990), arXiv preprint [arXiv:1708.01294](https://arxiv.org/abs/1708.01294).
 
-[^8]: O. Tomalak, P. Machado, V. Pandey, and R. Plestid (2021). "Flavor-dependent radiative corrections in coherent elastic neutrino-nucleus scattering". [*JHEP 02 097*](https://link.springer.com/article/10.1007/JHEP02(2021)097), *arXiv preprint* [arXiv:2011.05960](https://arxiv.org/abs/2011.05960).
+[^8]: O. Tomalak, P. Machado, V. Pandey, and R. Plestid (2021). "Flavor-dependent radiative corrections in coherent elastic neutrino-nucleus scattering". [*JHEP 02 097*](https://link.springer.com/article/10.1007/JHEP02(2021)097), arXiv preprint [arXiv:2011.05960](https://arxiv.org/abs/2011.05960).
 
-[^9]: O. Tomalak (2022). "Radiative (anti)neutrino energy spectra from muon, pion, and kaon decays". [*Phys. Lett. B 829, 137108*](https://www.sciencedirect.com/science/article/pii/S0370269322002428?via%3Dihub), *arXiv preprint* [arXiv:2112.12395](https://arxiv.org/abs/2112.12395).
+[^9]: O. Tomalak (2022). "Radiative (anti)neutrino energy spectra from muon, pion, and kaon decays". [*Phys. Lett. B 829, 137108*](https://www.sciencedirect.com/science/article/pii/S0370269322002428?via%3Dihub), arXiv preprint [arXiv:2112.12395](https://arxiv.org/abs/2112.12395).
 
-[^10]: O. Tomalak (2023). "Radiative Corrections to Neutron Beta Decay and (Anti)Neutrino-Nucleon Scattering from Low-Energy Effective Field Theory". [*Few Body Syst. 64 2, 23*](https://link.springer.com/article/10.1007/s00601-023-01802-3), *arXiv preprint* [arXiv:2302.00642](https://arxiv.org/abs/2302.00642).
+[^10]: O. Tomalak (2023). "Radiative Corrections to Neutron Beta Decay and (Anti)Neutrino-Nucleon Scattering from Low-Energy Effective Field Theory". [*Few Body Syst. 64 2, 23*](https://link.springer.com/article/10.1007/s00601-023-01802-3), arXiv preprint [arXiv:2302.00642](https://arxiv.org/abs/2302.00642).
 
-[^11]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2023). "Effective field theory for radiative corrections to charged-current processes: I. Vector coupling". [*Phys.Rev.D 108 5, 053003*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.053003), *arXiv preprint* [arXiv:2306.03138](https://arxiv.org/abs/2306.03138).
+[^11]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2023). "Effective field theory for radiative corrections to charged-current processes: I. Vector coupling". [*Phys.Rev.D 108 5, 053003*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.053003), arXiv preprint [arXiv:2306.03138](https://arxiv.org/abs/2306.03138).
 
-[^12]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2025). "Effective field theory for radiative corrections to charged-current processes: II. Axial-vector coupling". [*Phys.Rev.D 111 9, 053005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.053005), *arXiv preprint* [arXiv:2410.21404](https://arxiv.org/abs/2410.21404).
+[^12]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2025). "Effective field theory for radiative corrections to charged-current processes: II. Axial-vector coupling". [*Phys.Rev.D 111 9, 053005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.053005), arXiv preprint [arXiv:2410.21404](https://arxiv.org/abs/2410.21404).
 
-[^13]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^13]: O. Tomalak and M. Vanderhaeghen (2014). "Two-photon exchange corrections in elastic muon-proton scattering". [*	Phys. Rev. D 90, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.013006), arXiv preprint [arXiv:1405.1600](https://arxiv.org/abs/1405.1600).
 
-[^14]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^14]: O. Tomalak and M. Vanderhaeghen (2016). "Two-photon exchange correction in elastic unpolarized electron-proton scattering at small momentum transfer". [*Phys. Rev. D 93, 013023*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.013023), arXiv preprint [arXiv:1508.03759](https://arxiv.org/abs/1508.03759).
 
-[^15]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^15]: O. Tomalak and M. Vanderhaeghen (2016). "Two-photon exchange correction to muon–proton elastic scattering at low momentum transfer". [*Eur. Phys. J. C 76, no. 3, 125*](https://link.springer.com/article/10.1140/epjc/s10052-016-3966-3), arXiv preprint [arXiv:1512.09113](https://arxiv.org/abs/1512.09113).
 
-[^16]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^16]:  O. Tomalak and M. Vanderhaeghen (2015). "Subtracted dispersion relation formalism for the two-photon exchange correction to elastic electron-proton scattering: comparison with data". [*Eur.Phys.J.A 51 2, 24*](https://link.springer.com/article/10.1140/epja/i2015-15024-1), arXiv preprint [arXiv:1408.5330](https://arxiv.org/abs/1408.5330).
 
-[^17]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^17]: B. Pasquini, O. Tomalak and M. Vanderhaeghen(2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states and comparison with data". [*Phys.Rev.D 96 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.096001), arXiv preprint [arXiv:1708.03303](https://arxiv.org/abs/1708.03303).
 
-[^18]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^18]: B. Pasquini, O. Tomalak and M. Vanderhaeghen(2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states at low momentum transfers". [*Phys.Rev.D 95 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.096001), arXiv preprint [arXiv:1612.07726](https://arxiv.org/abs/1612.07726).
 
-[^19]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^19]: O. Tomalak (2018). "Two-photon exchange correction in elastic lepton-proton scattering". [*Few Body Syst. 59 5, 87*](https://link.springer.com/article/10.1007/s00601-018-1413-8), arXiv preprint [arXiv:1806.01627](https://arxiv.org/abs/1806.01627).
 
-[^20]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^20]: Cl. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog.Part.Nucl.Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
 
-[^21]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^21]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^22]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^22]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^23]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^23]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^24]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^24]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^25]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^25]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^26]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^26]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^27]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^27]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^28]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^28]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^29]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^29]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^30]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^30]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^31]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^31]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^32]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^32]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^33]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^33]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^34]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^34]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^35]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^35]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^36]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^36]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^37]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^37]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^38]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^38]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^39]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^39]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^40]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^40]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^41]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^41]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^42]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^42]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^43]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^43]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^44]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^44]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^45]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^45]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^46]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^46]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^47]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^47]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^48]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^48]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^49]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^49]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^50]: (20). "". [**](), *arXiv preprint* [arXiv:]().
+[^50]: (20). "". [**](), arXiv preprint [arXiv:]().
