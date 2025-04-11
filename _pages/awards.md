@@ -2,7 +2,7 @@
 layout: archive
 title: "Awards"
 permalink: /awards/
-author_profile: false
+author_profile: true
 ---
 
 1. **Winner of Poster Competition**, Electromagnetic Interactions with Nucleons and Nuclei, Annabelle Hotel, Paphos, Cyprus, 11/2015 and 11/2017
