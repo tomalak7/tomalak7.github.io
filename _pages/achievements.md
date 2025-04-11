@@ -155,7 +155,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^21]: PRAD Collaboration (2019). "A small proton charge radius from an electron–proton scattering experiment". [*Nature 575 7781, 147-150*](https://www.nature.com/articles/s41586-019-1721-2).
 
-[^22]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^22]: K. Borah, R.J. Hill, G. Lee, and O. Tomalak (2020). "Parametrization and applications of the low-Q\^2 nucleon vector form factors". [*Phys.Rev.D 102 7, 074012*](), arXiv preprint [arXiv:2003.13640]().
 
 [^23]: (20). "". [**](), arXiv preprint [arXiv:]().
 
