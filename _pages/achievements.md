@@ -123,7 +123,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 ## References
 
-    [^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), arXiv preprint [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
+[^1]: O. Tomalak and R. J. Hill (2020). "Theory of elastic neutrino-electron scattering". [*Phys. Rev. D 101 3, 033006*]([https://inspirehep.net/literature/1742765](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.033006)), arXiv preprint [arXiv:1907.03379](https://arxiv.org/abs/1907.03379).
 
 [^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), arXiv preprint [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
 
