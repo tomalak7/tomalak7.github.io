@@ -151,9 +151,9 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^19]: O. Tomalak (2018). "Two-photon exchange correction in elastic lepton-proton scattering". [*Few Body Syst. 59 5, 87*](https://link.springer.com/article/10.1007/s00601-018-1413-8), arXiv preprint [arXiv:1806.01627](https://arxiv.org/abs/1806.01627).
 
-[^20]: Cl. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog.Part.Nucl.Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
+[^20]: O. Tomalak and M. Vanderhaeghen (2018). "Dispersion relation formalism for the two-photon exchange correction to elastic muon–proton scattering: elastic intermediate state". [*Eur.Phys.J.C 78 6, 514*](https://link.springer.com/article/10.1140/epjc/s10052-018-5988-5), arXiv preprint [arXiv:1803.05349](https://arxiv.org/abs/1803.05349).
 
-[^21]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^21]: PRAD Collaboration (2019). "A small proton charge radius from an electron–proton scattering experiment". [*Nature 575 7781, 147-150*](https://www.nature.com/articles/s41586-019-1721-2).
 
 [^22]: (20). "". [**](), arXiv preprint [arXiv:]().
 
@@ -209,6 +209,6 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^48]: (20). "". [**](), arXiv preprint [arXiv:]().
 
-[^49]: (20). "". [**](), arXiv preprint [arXiv:]().
+[^49]: Cl. Peset, A. Pineda, and O. Tomalak (2021). "The proton radius (puzzle?) and its relatives". [*Prog.Part.Nucl.Phys. 121 103901*](https://www.sciencedirect.com/science/article/abs/pii/S0146641021000600?via%3Dihub), arXiv preprint [arXiv:2106.00695](https://arxiv.org/abs/2106.00695).
 
 [^50]: (20). "". [**](), arXiv preprint [arXiv:]().
