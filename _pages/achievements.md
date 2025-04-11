@@ -13,7 +13,7 @@ author_profile: true
             color: #000000;
         }        
         /* Target the footnote references */
-        .footnote-ref {
+        sup[id^="fnref"] {
             color: #00008B;       /* Change the color of footnote references */
         }
     </style>
