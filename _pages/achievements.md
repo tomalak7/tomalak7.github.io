@@ -11,6 +11,10 @@ author_profile: true
         .footnotes  {
             font-size: 2.0em;  /* Adjust the size as needed */
             color: #000000;
+        }        
+        /* Target the footnote references */
+        .footnote-ref {
+            color: #00008B;       /* Change the color of footnote references */
         }
     </style>
 </head>
