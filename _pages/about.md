@@ -26,7 +26,7 @@ As of today, I have significantly contributed to the following research areas:
 
 Keywords
 ------
-Radiative corrections, neutrino interactions, nucleon structure, cross sections, effective field theory, quantum field theory, quantum electrodynamics, hadron physics, dispersion relations, non-perturbative methods, two-photon exchange.
+Radiative corrections, neutrino interactions, nucleon structure, cross sections, effective field theory, low-energy electroweak interactions, quantum field theory, quantum electrodynamics, hadron physics, dispersion relations, non-perturbative methods, two-photon exchange.
 
 For a detailed description of my research activities, please follow [this link](https://tomalak7.github.io/achievements).
 
