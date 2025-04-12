@@ -52,6 +52,8 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://novaexperiment.fnal.gov">NOvA</a><br>
 - <a href="https://t2k-experiment.org">T2K</a><br>
 - <a href="http://juno.ihep.cas.cn">JUNO</a>
+- <a href="https://borex.lngs.infn.it">Borexino</a>
+- <a href="https://sites.duke.edu/coherent/">COHERENT</a>
 
 </div>
 
@@ -59,19 +61,23 @@ Below, I provide a list of experiments and activities I am excited about
 
 - <a href="https://www.physics.rutgers.edu/~rgilman/elasticmup/">MUSE</a><br>
 - <a href="https://amber.web.cern.ch">AMBER</a><br>
+- <a href="https://www-zeus.desy.de">ZEUS</a>
 - <a href="https://www.bnl.gov/eic/">EIC</a><br>
 - <a href="https://web.mit.edu/olympus/">OLYMPUS</a><br>
 - <a href="https://www.jlab.org/physics/hall-b/clas">CLAS</a>
+- <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a><br>
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
 
-- <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a><br>
 - <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
+- <a href="https://ultracold.web.illinois.edu/ucntau">UCNtau</a><br>
 - <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a>
+- <a href="https://minerva.fnal.gov">MINERvA</a>
+- <a href="https://d0.fnal.gov">DZero</a>
 
 </div>
 
