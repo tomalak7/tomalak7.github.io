@@ -188,7 +188,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^33]: O. Tomalak, K. Borah, M. Betancourt, R.J. Hill, and Th. Junk (2024). "Constraints on new physics with (anti)neutrino-nucleon scattering data". [*Phys. Lett. B 854 138718*](https://www.sciencedirect.com/science/article/pii/S0370269324002764?via%3Dihub), arXiv preprint [arXiv:2402.14115](https://arxiv.org/abs/2402.14115).
 
-[^34]: R. Pohl et al. (2010). "The size of the proton". [*Nature 466 213-216*]([https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.203001](https://www.nature.com/articles/nature09250)).
+[^34]: R. Pohl et al. (2010). "The size of the proton". [*Nature 466 213-216*](https://www.nature.com/articles/nature09250).
 
 [^35]: A. Antognini et al. (2011). "Proton Structure from the Measurement of 2S−2P Transition Frequencies of Muonic Hydrogen". [*Science 339 417-420*](https://www.science.org/doi/10.1126/science.1230016).
 
