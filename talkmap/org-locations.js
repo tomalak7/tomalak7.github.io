@@ -1,8 +1,8 @@
 var addressPoints = [
   [
     "Constraints on new physics with (anti)neutrino–nucleon scattering data<br />15th International Workshop on Neutrino-Nucleus Interactions, Mainz, Germany",
-    49.9718,
-    8.2939
+    49.9906,
+    8.2345
   ],
   [
     "Effective field theory for radiative corrections to charged-current processes: neutron decay and Vud<br />Theory Workshop on Neutrino Physics, Center for Theoretical Underground Physics and Related Areas, Lead, SD, USA",
