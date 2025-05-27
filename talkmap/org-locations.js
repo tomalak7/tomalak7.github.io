@@ -20,7 +20,7 @@ var addressPoints = [
     -122.3035
   ],
   [
-    "Research Visit, JGU MAinz, Mainz, Germany",
+    "Research Visit, JGU Mainz, Mainz, Germany",
     49.9906,
     8.2345
   ]
