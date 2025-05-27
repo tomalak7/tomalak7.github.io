@@ -18,5 +18,10 @@ var addressPoints = [
     "QED Nuclear Medium Effects at EIC Energies<br />Bridging Theory and Experiment at the Electron-Ion Collider, Institute for Nuclear Theory, Seattle, WA, USA",
     47.6556,
     -122.3035
+  ],
+  [
+    "Research Visit, JGU MAinz, Mainz, Germany",
+    49.9906,
+    8.2345
   ]
 ];
