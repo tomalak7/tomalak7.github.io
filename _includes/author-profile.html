@@ -18,7 +18,6 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.sentence %}<p class="author__bio">{{ author.sentence }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -166,6 +165,7 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}
+      {% if author.sentence %}<p class="author__bio">{{ author.sentence }}</p>{% endif %}
       <div style="width: 200px; margin: 0 auto">
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1-foiUhZEIwPdgdLF3l5cBrv0hFtUPOIbR2kqknDgH4&cl=ffffff&w=a"></script>
       </div>
