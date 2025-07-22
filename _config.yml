@@ -22,17 +22,17 @@ repository               : "tomalak7/tomalak7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "image0.jpeg"
   name             : "Sasha Tomalak"
   pronouns         : "he/his"  
-  bio              : "position, affiliation" # "tenure-track associate professor"
-#  sentence         : "October 2024: I can get a job only in the country without corruption and racism."
+  bio              : "Associate Professor, affiliation"
+  sentence         : "October 2024: I can get a job only in the country without corruption and racism."
   statement        : "Welcome to the modern World!"
-  location         : "Lead, South Dakota, USA" # "Beijing, China"
-  employer         : "" # "Institute of Theoretical Physics，Chinese Academy of Sciences"
+  location         : "Beijing, China"
+  employer         : "Institute of Theoretical Physics，Chinese Academy of Sciences"
   uri              : "https://tomalak7.github.io" 
-  email            : "sashatomalak@icloud.com" 
-  phone            : "+49(155)60735486" 
+  email            : "sashatomalak@icloud.com, tomalak@itp.ac.cn" 
+  phone            : "+49(155)60735486, +86(157)01075139" 
 
   # Academic websites
   inspirehep       : "https://inspirehep.net/authors/1077543"
