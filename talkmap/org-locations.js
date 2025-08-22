@@ -5,6 +5,11 @@ var addressPoints = [
     126.4212
   ],
   [
+    "Participation in <br />vSTEP 2025, Beijing, China",
+    40.1304,
+    116.4921
+  ],
+  [
     "Constraints on new physics with (anti)neutrino–nucleon scattering data<br />15th International Workshop on Neutrino-Nucleus Interactions, Mainz, Germany",
     49.9906,
     8.2345
