@@ -25,9 +25,9 @@ var addressPoints = [
     -43.1709
   ],
   [
-    "QED Nuclear Medium Effects at EIC Energies<br />Bridging Theory and Experiment at the Electron-Ion Collider, Institute for Nuclear Theory, Seattle, WA, USA",
-    47.6556,
-    -122.3035
+    "QED Nuclear Medium Effects at EIC Energies<br />The 26th international symposium on spin physics (SPIN2025), Qingdao (Tsingtao), Shandong Province, China",
+    36.0584,
+    120.3254
   ],
   [
     "Research Visit from 18-06-2025 to 28-06-2025, JGU Mainz, Mainz, Germany",
