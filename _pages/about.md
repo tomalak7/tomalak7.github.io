@@ -15,7 +15,7 @@ As of today, I have significantly contributed to the following research areas:
 
 2) coherent elastic neutrino-nucleus scattering,
 
-3) neutron decay and Cabibbo-Kobayashi-Maskawa mixing matrix,
+3) neutron and nuclear decay, Cabibbo-Kobayashi-Maskawa mixing matrix,
   
 4) nucleon form factors,
 
