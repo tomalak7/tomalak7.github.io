@@ -1,0 +1,66 @@
+
+Tomalak Oleksandr is Associate Professor at the Institute of Theoretical Physics, Chinese Academy of Sciences. He works on various subjects in modern Nuclear and Particle Physics, in a close connection to the experiment. 
+
+Research Directions:
+Neutrino physics, Nucleon structure, Radiative corrections, Effective field theory 
+
+Homepage：
+https://tomalak7.github.io/
+
+
+Education:
+11/2012-10/2016: Ph.D. in Theoretical Physics, Johannes Gutenberg University of Mainz, Mainz, Germany, Summa Cum Laude
+Dissertation: Two-Photon Exchange Corrections in Elastic Lepton-Proton Scattering
+Supervisor: Prof. Dr. Marc Vanderhaeghen
+07/2010-06/2012: MS in Theoretical Physics, Taras Shevchenko National University, Kyiv, Ukraine, Red Diploma
+Speciality: Nuclear and Particle Physics, Quantum Field Theory
+Thesis: Generation of Gravitational Waves during Magnetic Instability in Early Universe
+Supervisor: Dr. Yurii Shtanov
+09/2006-06/2010: BS in Physics, Taras Shevchenko National University, Kyiv, Ukraine, Red Diploma
+Speciality: Nuclear and Particle Physics, Quantum Field Theory
+Thesis: Muons Registration Efficiency Determination for F2 Proton Structure Function Measurement in ZEUS Experiment
+Supervisor: Prof. Dr. Vladimir Aushev
+
+
+Work Appointments:
+since 2025: Tenure-track Associate Professor, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, P. R. China
+2021-2024: Director's Postdoctoral Fellow, Los Alamos National Laboratory, NM, USA
+2018-2021: Postdoctoral researcher, University of Kentucky, Lexington, KY, USA and Fermilab, Batavia, IL, USA
+2016-2018: Postdoctoral researcher, Johannes Gutenberg-University of Mainz, Mainz, Germany
+
+
+Additional Work Experience:
+2025: Guest scientist, Institute for Nuclear Physics, Johannes Gutenberg University of Mainz, Mainz, Germany
+2024: Guest scientist,Theory Division, Fermilab, USA
+2024: Guest scientist,Institute for Nuclear Theory, University of Washington, USA
+2015, 2017: Guest scientist, Department of Physics, University of Pavia, Pavia, Italy
+2010 - 2011: Member of D0 collaboration, D0 Experiment, Fermilab, Batavia, IL, USA
+2009 - 2010: Bachelor student, ZEUS Experiment, DESY, Hamburg, Germany
+
+
+Representative Works:
+1. O. Tomalak and R. J. Hill Theory of elastic neutrino-electron scattering Phys. Rev. D 101, 033006 (2020), hep-ph/1907.03379, 59 citations
+2. O. Tomalak, Q. Chen, R. J. Hill and K. S. McFarland QED radiative corrections for accelerator neutrinos Nature Commun. 13 (2022), 1, 5286, hep-ph/2105.07939, 34 citations
+3. V. Cirigliano, W. Dekens, E. Mereghetti and O. Tomalak Eﬀective field theory for radiative corrections to charged-current processes I: Vector coupling Phys. Rev. D 108, 053003 (2023), hep-ph/2306.03138, 38 citations
+4. O. Tomalak, P. Machado, V. Pandey and R. Plestid Flavor-dependent radiative corrections in coherent elastic neutrino-nucleus scattering JHEP 2102, 097 (2021), hep-ph/2011.05960, 72 citations
+5. R. J. Hill and O. Tomalak On the eﬀective theory of neutrino-electron and neutrino-quark interactions Phys. Lett. B 805, 135466 (2020), hep-ph/1911.01493, 31 citations
+6. O. Tomalak and I. Vitev QED medium eﬀects in (anti)neutrino-nucleus and electron-nucleus scattering: elastic scattering on nucleons Phys. Lett. B 835, 137492 (2022), nucl-th/2206.10637, 7 citations
+7. K. Borah, R. J. Hill, G. Lee and O. Tomalak Parameterization and applications of the low-Q2 nucleon vector form factors Phys. Rev. D 102, 074012 (2020), hep-ph/2003.13640, 68 citations
+8. O. Tomalak and M. Vanderhaeghen Subtracted dispersion relation formalism for the two-photon exchange correction in elastic electron-proton scattering: comparison with data Eur. Phys. J. A 51, no. 2, 24 (2015), hep-ph/1408.5330, 71 citations
+9. Cl. Peset, A. Pineda, and O. Tomalak The proton radius (puzzle?) and its relatives Prog. Part. Nucl. Phys. 121, 103901 (2021), hep-ph/2106.00695, 28 citations
+10. O. Tomalak Two-photon exchange correction to the hyperfine splitting in muonic hydrogen Eur. Phys. J. C 77, no. 12, 858 (2017), hep-ph/1708.02509, 31 citations
+
+The up-to-date publication and citation information can be found on the web page: https://inspirehep.net/authors/1077543
+
+
+Awards and Honors:
+11/2017: Winner of the poster competition at EINN 2017, Electromagnetic Interactions with Nucleons and Nuclei, Paphos, Cyprus
+11/2017: Prize for Outstanding Doctoral Research, Faculty 08: Physics, Mathematics and Computer Science, Johannes Gutenberg-Universit\"at Mainz, Mainz, Germany
+06/2012: Alumnus of the Year, Taras Shevchenko National University, Kyiv, Ukraine
+02/2008: 2nd degree diploma, member of the Faculty Team, Ukrainian Physicists' Tournament for University Students, Kyiv, Ukraine
+04/2007: Absolute Winner of Ukrainian Students Olympiad in Theoretical Physics, Kharkiv, Ukraine
+07/2006: Silver Medal, 37th International Physics Olympiad, Singapore
+
+Membership in Scientific Organizations:
+08/2015-present American Physical Society
+03/2013-12/2020 German Physical Society
