@@ -5,6 +5,11 @@ var addressPoints = [
     126.4212
   ],
   [
+    "Radiative corrections to neutrino-nucleon/nucleus cross section <br />Neutrino Interactions for Current and Future Experiments, KEK, Tsukuba, Japan",
+    36.1496,
+    140.0758
+  ],
+  [
     "Participation in <br />vSTEP 2025, Beijing, China",
     40.1304,
     116.4921
