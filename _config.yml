@@ -31,8 +31,9 @@ author:
   location         : "Beijing, China"
   employer         : "ITP@CAS"
   uri              : "https://tomalak7.github.io" 
-  email            : "sashatomalak@icloud.com, tomalak@itp.ac.cn" 
-  phone            : "+86(157)01075139" 
+  email            : "sashatomalak@icloud.com, tomalak@itp.ac.cn"
+  phone            : "+86(010)62582375"
+#  phone            : "+86(157)01075139" 
 
   # Academic websites
   inspirehep       : "https://inspirehep.net/authors/1077543"
