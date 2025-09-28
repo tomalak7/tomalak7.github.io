@@ -10,7 +10,7 @@ var addressPoints = [
     140.0758
   ],
   [
-    "Participation in <br />vSTEP 2025, Beijing, China",
+    "Radiative corrections and cross sections in neutrino physics, <br />vSTEP 2025, Beijing, China",
     40.1304,
     116.4921
   ],
