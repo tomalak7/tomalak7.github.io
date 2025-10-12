@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-Special Issue at Journal Universe
+Special Issue in Journal Universe
 ------
 
-Special Issue [Neutrino Oscillations and Interactions](https://www.mdpi.com/journal/universe/special_issues/R0P670C0CC) at Universe accepts publication with full and partial fee wavers. Our goal is to capture the current state of the art and progress being made in neutrino physics while illuminating a path toward the field's exciting future. We look forward to receiving your contributions.
+Special Issue [Neutrino Oscillations and Interactions](https://www.mdpi.com/journal/universe/special_issues/R0P670C0CC) in Universe accepts publication with full and partial fee wavers. Our goal is to capture the current state of the art and progress being made in neutrino physics while illuminating a path toward the field's exciting future. We look forward to receiving your contributions.
 
 
 About me
