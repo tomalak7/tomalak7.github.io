@@ -24,7 +24,7 @@ As of today, I have significantly contributed to the following research areas:
 6) nucleon and nuclear structure in large nuclei.
 
 
-Specila Issue at Journal Universe
+Special Issue at Journal Universe
 ------
 
 Special Issue [Neutrino Oscillations and Interactions](https://www.mdpi.com/journal/universe/special_issues/R0P670C0CC) at Universe accepts publication with full and partial fee wavers. Our goal is to capture the current state of the art and progress being made in neutrino physics while illuminating a path toward the field's exciting future. We look forward to receiving your contributions.
