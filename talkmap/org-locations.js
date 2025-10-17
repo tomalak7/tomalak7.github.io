@@ -15,6 +15,11 @@ var addressPoints = [
     116.4921
   ],
   [
+    "Charged-current neutrino scattering cross sections and radiative corrections, <br />NuPhyR, Zhuhai, Guangdong, China",
+    22.2000,
+    113.5000
+  ],
+  [
     "Constraints on new physics with (anti)neutrino–nucleon scattering data<br />15th International Workshop on Neutrino-Nucleus Interactions, Mainz, Germany",
     49.9906,
     8.2345
