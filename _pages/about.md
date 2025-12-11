@@ -60,8 +60,8 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://www-sk.icrr.u-tokyo.ac.jp/en/hk/">Hyper-K</a><br>
 - <a href="https://novaexperiment.fnal.gov">NOvA</a><br>
 - <a href="https://t2k-experiment.org">T2K</a><br>
-- <a href="http://juno.ihep.cas.cn">JUNO</a><br>
 - <a href="https://minerva.fnal.gov">MINERvA</a><br>
+- <a href="http://juno.ihep.cas.cn">JUNO</a><br>
 - <a href="https://borex.lngs.infn.it">Borexino</a><br>
 - <a href="https://sites.duke.edu/coherent/">COHERENT</a><br>
 
@@ -73,7 +73,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://amber.web.cern.ch">AMBER</a><br>
 - <a href="https://www-zeus.desy.de">ZEUS</a><br>
 - <a href="https://www.bnl.gov/eic/">EIC</a><br>
-- <a href="https://www.bnl.gov/eic/](https://english.cas.cn/newsroom/research_news/phys/202107/t20210712_275748.shtml">EIcC</a><br>
+- <a href="https://english.cas.cn/newsroom/research_news/phys/202107/t20210712_275748.shtml">EIcC</a><br>
 - <a href="https://web.mit.edu/olympus/">OLYMPUS</a><br>
 - <a href="https://www.jlab.org/physics/hall-b/clas">CLAS</a><br>
 - <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a>
@@ -83,12 +83,12 @@ Below, I provide a list of experiments and activities I am excited about
 <div style="flex: 1; min-width: 200px;">
 
 - <a href="https://www.jlab.org/prad/collaboration.html">PRAD</a><br>
+- <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
+- <a href="https://inspirehep.net/literature/2842514">MACE</a>
 - <a href="https://ultracold.web.illinois.edu/ucntau">UCNtau</a><br>
 - <a href="https://www.ph.nat.tum.de/en/ene/research/perkeo-iii/">PERKEO III</a><br>
-- <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a><br>
-- <a href="https://inspirehep.net/literature/2842514">MACE</a>
 - <a href="https://d0.fnal.gov">DZero</a>
 
 </div>
@@ -99,4 +99,12 @@ Below, I provide a list of experiments and activities I am excited about
 Projects and Jobs
 ------
 If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
+
+Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
+
+The candidates with experience in neutrino physics, QED radiative corrections, precision calculations, effective field theories, low-energy electroweak interactions, lepton scattering, hadron phenomenology, chiral perturbation theory, and nuclear structure are encouraged to apply.
+
+The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
+
+Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted at [AJO](https://academicjobsonline.org/ajo/jobs/31194)
 --->
