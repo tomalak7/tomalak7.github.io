@@ -62,7 +62,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://t2k-experiment.org">T2K</a><br>
 - <a href="http://juno.ihep.cas.cn">JUNO</a><br>
 - <a href="https://borex.lngs.infn.it">Borexino</a><br>
-- <a href="https://sites.duke.edu/coherent/">COHERENT</a>
+- <a href="https://sites.duke.edu/coherent/">COHERENT</a><br>
 - <a href="https://inspirehep.net/literature/2842514">MACE</a>
 
 </div>
