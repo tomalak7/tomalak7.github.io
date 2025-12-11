@@ -61,9 +61,9 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://novaexperiment.fnal.gov">NOvA</a><br>
 - <a href="https://t2k-experiment.org">T2K</a><br>
 - <a href="http://juno.ihep.cas.cn">JUNO</a><br>
+- <a href="https://minerva.fnal.gov">MINERvA</a><br>
 - <a href="https://borex.lngs.infn.it">Borexino</a><br>
 - <a href="https://sites.duke.edu/coherent/">COHERENT</a><br>
-- <a href="https://inspirehep.net/literature/2842514">MACE</a>
 
 </div>
 
@@ -88,7 +88,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://ultracold.web.illinois.edu/ucntau">UCNtau</a><br>
 - <a href="https://www.ph.nat.tum.de/en/ene/research/perkeo-iii/">PERKEO III</a><br>
 - <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a><br>
-- <a href="https://minerva.fnal.gov">MINERvA</a><br>
+- <a href="https://inspirehep.net/literature/2842514">MACE</a>
 - <a href="https://d0.fnal.gov">DZero</a>
 
 </div>
