@@ -63,6 +63,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="http://juno.ihep.cas.cn">JUNO</a><br>
 - <a href="https://borex.lngs.infn.it">Borexino</a><br>
 - <a href="https://sites.duke.edu/coherent/">COHERENT</a>
+- <a href="https://inspirehep.net/literature/2842514">MACE</a>
 
 </div>
 
@@ -72,6 +73,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://amber.web.cern.ch">AMBER</a><br>
 - <a href="https://www-zeus.desy.de">ZEUS</a><br>
 - <a href="https://www.bnl.gov/eic/">EIC</a><br>
+- <a href="https://www.bnl.gov/eic/](https://english.cas.cn/newsroom/research_news/phys/202107/t20210712_275748.shtml">EIcC</a><br>
 - <a href="https://web.mit.edu/olympus/">OLYMPUS</a><br>
 - <a href="https://www.jlab.org/physics/hall-b/clas">CLAS</a><br>
 - <a href="https://v4.inp.nsk.su/vepp3/index.en.html">VEPP-3</a>
@@ -84,6 +86,7 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
 - <a href="https://ultracold.web.illinois.edu/ucntau">UCNtau</a><br>
+- <a href="https://www.ph.nat.tum.de/en/ene/research/perkeo-iii/">PERKEO III</a><br>
 - <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a><br>
 - <a href="https://minerva.fnal.gov">MINERvA</a><br>
 - <a href="https://d0.fnal.gov">DZero</a>
