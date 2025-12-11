@@ -93,11 +93,9 @@ Below, I provide a list of experiments and activities I am excited about
 
 </div>
 
-</div>
-
-<!---
 Projects and Jobs
 ------
+
 If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
 
 Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
@@ -107,4 +105,5 @@ The candidates with experience in neutrino physics, QED radiative corrections, p
 The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
 
 Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted at [AJO](https://academicjobsonline.org/ajo/jobs/31194)
---->
+
+</div>
