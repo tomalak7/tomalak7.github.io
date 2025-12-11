@@ -47,6 +47,19 @@ This Home Page
 
 You can find [Resume](https://tomalak7.github.io/files/Tomalak_Oleksandr_resume.pdf), [CV](https://tomalak7.github.io/files/Tomalak_Oleksandr_CV_pub.pdf), [Publications](https://inspirehep.net/authors/1077543), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements) on this [Home Page](https://tomalak7.github.io/). Additionally, you can find [Recent and Upcoming Conferences and Institutions](https://tomalak7.github.io/conferences) I attend and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
 
+Projects and Jobs
+------
+
+If you are highly motivated-bachelor/master/PhD student, or postdoc and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
+
+Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
+
+The candidates with experience in neutrino physics, QED radiative corrections, precision calculations, effective field theories, low-energy electroweak interactions, lepton scattering, hadron phenomenology, chiral perturbation theory, and nuclear structure are encouraged to apply.
+
+The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
+
+Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted at [AJO](https://academicjobsonline.org/ajo/jobs/31194)
+
 
 Experimental Activities of Interst
 ------
@@ -86,24 +99,11 @@ Below, I provide a list of experiments and activities I am excited about
 - <a href="https://magix.uni-mainz.de/">MAGIX@MESA</a><br>
 - <a href="https://www.psi.ch/en/ltp/hypermu">Hypermu</a><br>
 - <a href="https://web.infn.it/FAMU/the-project/">FAMU</a><br>
-- <a href="https://inspirehep.net/literature/2842514">MACE</a>
+- <a href="https://inspirehep.net/literature/2842514">MACE</a><br>
 - <a href="https://ultracold.web.illinois.edu/ucntau">UCNtau</a><br>
 - <a href="https://www.ph.nat.tum.de/en/ene/research/perkeo-iii/">PERKEO III</a><br>
 - <a href="https://d0.fnal.gov">DZero</a>
 
 </div>
-
-Projects and Jobs
-------
-
-If you are highly motivated-bachelor/master/PhD student, or postdoc and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
-
-Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
-
-The candidates with experience in neutrino physics, QED radiative corrections, precision calculations, effective field theories, low-energy electroweak interactions, lepton scattering, hadron phenomenology, chiral perturbation theory, and nuclear structure are encouraged to apply.
-
-The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
-
-Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted at [AJO](https://academicjobsonline.org/ajo/jobs/31194)
 
 </div>
