@@ -96,7 +96,7 @@ Below, I provide a list of experiments and activities I am excited about
 Projects and Jobs
 ------
 
-If you are highly motivated-bachelor/master/PhD student, or postdocs and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
+If you are highly motivated-bachelor/master/PhD student, or postdoc and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
 
 Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
 
