@@ -218,7 +218,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^47]: O. Tomalak and I. Vitev (2023). "Broadening of particle distributions in electron-, neutrino-, and antineutrino-nucleus scattering from QED interactions". [*Phys. Rev. D 108 9, 9*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.093003), arXiv preprint [arXiv:2310.01414](https://arxiv.org/abs/2310.01414).
 
-[^48]: Sh. Bhattacharya, O. Tomalak, and I. Vitev (2025). "QED nuclear medium effects at EIC energies". [*Phys. Rev. D 112 3, 033001*]([https://arxiv.org/abs/2502.06943](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.112.033001)), arXiv preprint [arXiv:2502.06943](https://arxiv.org/abs/2502.06943).
+[^48]: Sh. Bhattacharya, O. Tomalak, and I. Vitev (2025). "QED nuclear medium effects at EIC energies". [*Phys. Rev. D 112 3, 033001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.112.033001), arXiv preprint [arXiv:2502.06943](https://arxiv.org/abs/2502.06943).
 
 [^49]: O. Tomalak and I. Vitev (2024). "Medium-induced photon bremsstrahlung in neutrino-nucleus, antineutrino-nucleus, and electron-nucleus scattering from multiple QED interactions". [*Phys. Rev. D 109 7, 073010*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.073010), arXiv preprint [arXiv:2402.16851](https://arxiv.org/abs/2402.16851).
 
