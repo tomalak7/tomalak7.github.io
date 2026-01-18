@@ -58,6 +58,8 @@ The candidates with experience in neutrino physics, QED radiative corrections, p
 
 The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
 
+The applicants should send/arrange the following documents: curriculum vitae, including list of publications; statement of research interests; three letters of recommendation.
+
 Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted via [Email](mailto:tomalak@itp.ac.cn).
 
 
