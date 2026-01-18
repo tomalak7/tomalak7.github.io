@@ -58,7 +58,7 @@ The candidates with experience in neutrino physics, QED radiative corrections, p
 
 The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
 
-Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted at [AJO](https://academicjobsonline.org/ajo/jobs/31194).
+Applications received by January 15th, 2026 will receive full consideration. The position will remain open until filled. Applications are accepted via [Email](mailto:tomalak@itp.ac.cn).
 
 
 Experimental Activities of Interst
