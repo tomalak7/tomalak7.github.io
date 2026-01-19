@@ -130,7 +130,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^2]: O. Tomalak and R. J. Hill (2020). "On the effective theory of neutrino-electron and neutrino-quark interactions". [*Phys. Lett. B 805, 135466*](https://www.sciencedirect.com/science/article/pii/S0370269320302707?via%3Dihub), arXiv preprint [arXiv:1911.01493](https://arxiv.org/abs/1911.01493).
 
-[^3]: O. Tomalak (2025). "Reducing Hadronic Uncertainty in Low-Energy Neutral-Current Processes". [arXiv:2506.03255](https://arxiv.org/abs/2506.03255), arXiv preprint [arXiv:2506.03255](https://arxiv.org/abs/2506.03255).
+[^3]: O. Tomalak (2025). "Reducing Hadronic Uncertainty in Low-Energy Neutral-Current Processes". [*Phys. Lett. B 873, 140181*](https://www.sciencedirect.com/science/article/pii/S0370269326000353), arXiv preprint [arXiv:2506.03255](https://arxiv.org/abs/2506.03255).
 
 [^4]: O. Tomalak, K. Borah, R. J. Hill, K. S. McFarland, and D. Ruterbories (2023). "Radiative corrections to inverse muon decay for accelerator neutrinos". [*Phys. Rev. D 107 3, 093005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.093005), arXiv preprint [arXiv:2211.15947](https://arxiv.org/abs/2211.15947).
 
