@@ -140,7 +140,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^7]: O. Tomalak, Q. Chen, R. J. Hill, K. S. McFarland, and Cl. Wret (2022). "Theory of QED radiative corrections to neutrino scattering at accelerator energies". [*Phys. Rev. D 106 9, 093006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.093006), arXiv preprint [arXiv:2204.11379](https://arxiv.org/abs/2204.11379).
 
-[^8]: O. Tomalak (2025). "Resonance Contributions to QED Radiative Corrections in Charged-Current (Anti)Neutrino-Nucleon Elastic Scattering at GeV Energies". [arXiv:2509.24011](https://arxiv.org/abs/2509.24011), arXiv preprint [arXiv:2509.24011](https://arxiv.org/abs/2509.24011).
+[^8]: O. Tomalak (2025). "Resonance Contributions to QED Radiative Corrections in Charged-Current (Anti)Neutrino-Nucleon Elastic Scattering at GeV Energies". [*Phys. Lett. B 873, 140199*](https://www.sciencedirect.com/science/article/pii/S0370269326000353), arXiv preprint [arXiv:2509.24011](https://arxiv.org/abs/2509.24011).
 
 [^9]: O. Tomalak (2025). "Theory of inverse beta decay for reactor antineutrinos". [arXiv:2512.07956](https://arxiv.org/abs/2512.07956), arXiv preprint [arXiv:2512.07956](https://arxiv.org/abs/2512.07956).
 
