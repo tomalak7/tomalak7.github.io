@@ -194,7 +194,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^34]: R. Petti, R.J. Hill, and O. Tomalak (2024). "Nucleon axial-vector form factor and radius from future neutrino experiments". [*Phys. Rev. D 109 5, L051301*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.L051301), arXiv preprint [arXiv:2309.02509](https://arxiv.org/abs/2309.02509).
 
-[^35]: O. Tomalak, A. S. Meyer, Cl. Wret, T. Cai, R.J. Hill, and K.McFarland (2026). "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data". [*arXiv:2403.04687*](https://arxiv.org/abs/2403.04687), arXiv preprint [arXiv:2403.04687](https://arxiv.org/abs/2403.04687).
+[^35]: O. Tomalak, A. S. Meyer, Cl. Wret, T. Cai, R.J. Hill, and K.McFarland (2026). "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data". [*arXiv:2601.21155*](https://arxiv.org/abs/2601.21155), arXiv preprint [arXiv:2601.21155](https://arxiv.org/abs/2601.21155).
 
 [^36]: O. Tomalak (2021). "Axial and pseudoscalar form factors from charged current quasielastic neutrino-nucleon scattering". [*Phys. Rev. D 103 1, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.013006), arXiv preprint [arXiv:2008.03527](https://arxiv.org/abs/2008.03527).
 
