@@ -47,20 +47,22 @@ This Home Page
 
 You can find [Resume](https://tomalak7.github.io/files/Tomalak_Oleksandr_resume.pdf), [CV](https://tomalak7.github.io/files/Tomalak_Oleksandr_CV_pub.pdf), [Publications](https://inspirehep.net/authors/1077543), [Awards](https://tomalak7.github.io/awards), and [Research Achievements](https://tomalak7.github.io/achievements) on this [Home Page](https://tomalak7.github.io/). Additionally, you can find [Recent and Upcoming Conferences and Institutions](https://tomalak7.github.io/conferences) I attend and [Video Recordings](https://tomalak7.github.io/records) of my research presentations.
 
-%Projects and Jobs
-%------
+<!--
+Projects and Jobs
+------
 
-%If you are highly motivated-bachelor/master/PhD student, or postdoc and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
+If you are highly motivated-bachelor/master/PhD student, or postdoc and seeking for opportunities to continue research, please do not hesitate to contact me via [Email](mailto:sashatomalak@icloud.com).
 
-%Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
+Our group invites applications for one postdoctoral position, starting in 2026. Applicants must hold a PhD in nuclear or particle physics by the time of appointment. The starting date can be negotiated.
 
-%The candidates with experience in neutrino physics, QED radiative corrections, precision calculations, effective field theories, low-energy electroweak interactions, lepton scattering, hadron phenomenology, chiral perturbation theory, and nuclear structure are encouraged to apply.
+The candidates with experience in neutrino physics, QED radiative corrections, precision calculations, effective field theories, low-energy electroweak interactions, lepton scattering, hadron phenomenology, chiral perturbation theory, and nuclear structure are encouraged to apply.
 
-%The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
+The appointment is initially for two years. Extension to a third year is possible depending on performance, project status, and funding.
 
-%The applicants should send/arrange the following documents: curriculum vitae, including list of publications; statement of research interests; three letters of recommendation.
+The applicants should send/arrange the following documents: curriculum vitae, including list of publications; statement of research interests; three letters of recommendation.
 
-%The position will remain open until filled. Applications are accepted via [Email](mailto:tomalak@itp.ac.cn).
+The position will remain open until filled. Applications are accepted via [Email](mailto:tomalak@itp.ac.cn).
+-->
 
 
 Experimental Activities of Interst
