@@ -23,5 +23,10 @@ var addressPoints = [
     "Radiative corrections in electron and neutrino scattering, <br />Shandong University, Qingdao, Shandong, China",
     36.3800,
     120.6591
+  ],
+  [
+    "Low-energy electroweak physics with neutrinos and nucleons, <br />HETH-Forum, IHEP, Beijing, China",
+    39.91116,
+    116.24317
   ]
 ];
