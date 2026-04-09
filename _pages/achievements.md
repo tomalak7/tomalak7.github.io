@@ -158,7 +158,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^16]: V. Cirigliano, W. Dekens, E. Mereghetti, and O. Tomalak (2025). "Effective field theory for radiative corrections to charged-current processes: II. Axial-vector coupling". [*Phys. Rev. D 111 9, 053005*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.053005), arXiv preprint [arXiv:2410.21404](https://arxiv.org/abs/2410.21404).
 
-[^17]: O. Tomalak, and Y.-B. Yang (2026). "Radiative corrections to the nucleon isovector gV and gA". [*arXiv:2603.08596*](https://arxiv.org/abs/2603.08596), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
+[^17]: O. Tomalak, and Y.-B. Yang (2026). "Radiative corrections to the nucleon isovector gV and gA". [*Universe 2026, 12 (4), 109*](https://www.mdpi.com/2218-1997/12/4/109), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
 
 [^18]: O. Tomalak and M. Vanderhaeghen (2014). "Two-photon exchange corrections in elastic muon-proton scattering". [*	Phys. Rev. D 90, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.013006), arXiv preprint [arXiv:1405.1600](https://arxiv.org/abs/1405.1600).
 
