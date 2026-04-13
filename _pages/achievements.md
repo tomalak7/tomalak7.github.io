@@ -170,9 +170,9 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^22]:  O. Tomalak and M. Vanderhaeghen (2015). "Subtracted dispersion relation formalism for the two-photon exchange correction to elastic electron-proton scattering: comparison with data". [*Eur. Phys. J. A 51 2, 24*](https://link.springer.com/article/10.1140/epja/i2015-15024-1), arXiv preprint [arXiv:1408.5330](https://arxiv.org/abs/1408.5330).
 
-[^23]: B. Pasquini, O. Tomalak and M. Vanderhaeghen(2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states and comparison with data". [*Phys. Rev. D 96 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.096001), arXiv preprint [arXiv:1708.03303](https://arxiv.org/abs/1708.03303).
+[^23]: B. Pasquini, O. Tomalak and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states and comparison with data". [*Phys. Rev. D 96 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.096001), arXiv preprint [arXiv:1708.03303](https://arxiv.org/abs/1708.03303).
 
-[^24]: B. Pasquini, O. Tomalak and M. Vanderhaeghen(2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states at low momentum transfers". [*Phys. Rev. D 95 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.096001), arXiv preprint [arXiv:1612.07726](https://arxiv.org/abs/1612.07726).
+[^24]: B. Pasquini, O. Tomalak and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states at low momentum transfers". [*Phys. Rev. D 95 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.096001), arXiv preprint [arXiv:1612.07726](https://arxiv.org/abs/1612.07726).
 
 [^25]: O. Tomalak (2018). "Two-photon exchange correction in elastic lepton-proton scattering". [*Few Body Syst. 59 5, 87*](https://link.springer.com/article/10.1007/s00601-018-1413-8), arXiv preprint [arXiv:1806.01627](https://arxiv.org/abs/1806.01627).
 
