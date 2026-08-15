@@ -162,9 +162,9 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^18]: O. Tomalak (2026). "QED radiative corrections in inverse beta decay from virtual pions". [*JHEP 07 (2026) 201*](https://link.springer.com/article/10.1007/JHEP07(2026)201), arXiv preprint [arXiv:2604.07113](https://arxiv.org/abs/2604.07113).
 
-[^19]: O. Tomalak, and Y.-B. Yang (2026). "Δ resonance contributions to QED radiative corrections in neutron and inverse beta decay". [arXiv:2603.08596](https://arxiv.org/abs/2603.08596), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
+[^19]: O. Tomalak and Y.-B. Yang (2026). "Δ resonance contributions to QED radiative corrections in neutron and inverse beta decay". [arXiv:2603.08596](https://arxiv.org/abs/2603.08596), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
 
-[^20]: O. Tomalak, and Y.-B. Yang (2026). "Radiative corrections to the nucleon isovector gV and gA". [*Universe 2026, 12 (4), 109*](https://www.mdpi.com/2218-1997/12/4/109), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
+[^20]: O. Tomalak and Y.-B. Yang (2026). "Radiative corrections to the nucleon isovector gV and gA". [*Universe 2026, 12 (4), 109*](https://www.mdpi.com/2218-1997/12/4/109), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
 
 [^21]: O. Tomalak and M. Vanderhaeghen (2014). "Two-photon exchange corrections in elastic muon-proton scattering". [*	Phys. Rev. D 90, 013006*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.013006), arXiv preprint [arXiv:1405.1600](https://arxiv.org/abs/1405.1600).
 
@@ -174,9 +174,9 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^24]:  O. Tomalak and M. Vanderhaeghen (2015). "Subtracted dispersion relation formalism for the two-photon exchange correction to elastic electron-proton scattering: comparison with data". [*Eur. Phys. J. A 51 2, 24*](https://link.springer.com/article/10.1140/epja/i2015-15024-1), arXiv preprint [arXiv:1408.5330](https://arxiv.org/abs/1408.5330).
 
-[^25]: B. Pasquini, O. Tomalak and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states and comparison with data". [*Phys. Rev. D 96 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.096001), arXiv preprint [arXiv:1708.03303](https://arxiv.org/abs/1708.03303).
+[^25]: B. Pasquini, O. Tomalak, and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states and comparison with data". [*Phys. Rev. D 96 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.096001), arXiv preprint [arXiv:1708.03303](https://arxiv.org/abs/1708.03303).
 
-[^26]: B. Pasquini, O. Tomalak and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states at low momentum transfers". [*Phys. Rev. D 95 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.096001), arXiv preprint [arXiv:1612.07726](https://arxiv.org/abs/1612.07726).
+[^26]: B. Pasquini, O. Tomalak, and M. Vanderhaeghen (2017). "Two-photon exchange contribution to elastic electron-proton scattering: Full dispersive treatment of πN states at low momentum transfers". [*Phys. Rev. D 95 9, 096001*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.096001), arXiv preprint [arXiv:1612.07726](https://arxiv.org/abs/1612.07726).
 
 [^27]: O. Tomalak (2018). "Two-photon exchange correction in elastic lepton-proton scattering". [*Few Body Syst. 59 5, 87*](https://link.springer.com/article/10.1007/s00601-018-1413-8), arXiv preprint [arXiv:1806.01627](https://arxiv.org/abs/1806.01627).
 
