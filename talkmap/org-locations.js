@@ -28,5 +28,20 @@ var addressPoints = [
     "Low-energy electroweak physics with neutrinos and nucleons, <br />HETH-Forum, IHEP, Beijing, China",
     39.91116,
     116.24317
+  ],
+  [
+    "Radiative corrections in (anti)neutrino-nucleon scattering and nucleon structure, <br />The 1st Conference on Strong-Interaction Spin Physics, Qingdao, Shandong, China",
+    36.3800,
+    120.6591
+  ],
+  [
+    "Radiative corrections in electron and neutrino scattering, <br />The 11th Conference on Chiral Effective Field Theory, Lanzhou University, Langzhou, Gansu, China",
+    36.0466,
+    103.8581
+  ],
+  [
+    "Radiative corrections to inverse beta decay at low energies, <br />NuFact 2026, Shanghai, China",
+    31.205289,
+    121.614288
   ]
 ];
