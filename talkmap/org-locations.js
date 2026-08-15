@@ -35,7 +35,7 @@ var addressPoints = [
     120.6591
   ],
   [
-    "Radiative corrections in electron and neutrino scattering, <br />The 11th Conference on Chiral Effective Field Theory, Lanzhou University, Langzhou, Gansu, China",
+    "ChPT-based calculations of inverse beta decay and neutron decay with applications to JUNO, <br />The 11th Conference on Chiral Effective Field Theory, Lanzhou University, Langzhou, Gansu, China",
     36.0466,
     103.8581
   ],
