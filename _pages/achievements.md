@@ -1,8 +1,3 @@
-Here is the text with the references renumbered in ascending order both in the text and in the reference list, while keeping all other formatting, spaces, and special symbols exactly the same.
-
----
-
-```
 ---
 layout: archive
 title: "Achievements"
