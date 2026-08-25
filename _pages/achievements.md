@@ -162,7 +162,7 @@ My most valuable contributions to nuclear and particle physics have advanced the
 
 [^18]: O. Tomalak (2026). "QED radiative corrections in inverse beta decay from virtual pions". [*JHEP 07 (2026) 201*](https://link.springer.com/article/10.1007/JHEP07(2026)201), arXiv preprint [arXiv:2604.07113](https://arxiv.org/abs/2604.07113).
 
-[^19]: O. Tomalak and Y.-B. Yang (2026). "Δ resonance contributions to QED radiative corrections in neutron and inverse beta decay". [arXiv:2603.08596](https://arxiv.org/abs/2603.08596), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
+[^19]: O. Tomalak and Y.-B. Yang (2026). "Δ resonance contributions to QED radiative corrections in neutron and inverse beta decay". [arXiv:2608.22845](https://arxiv.org/abs/2608.22845), arXiv preprint [arXiv:2608.22845](https://arxiv.org/abs/2608.22845).
 
 [^20]: O. Tomalak and Y.-B. Yang (2026). "Radiative corrections to the nucleon isovector gV and gA". [*Universe 2026, 12 (4), 109*](https://www.mdpi.com/2218-1997/12/4/109), arXiv preprint [arXiv:2603.08596](https://arxiv.org/abs/2603.08596).
 
